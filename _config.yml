@@ -1,0 +1,25 @@
+
+
+baseurl: "/LoremIpsum"
+
+# Build settings
+markdown: kramdown
+
+include: ['.htaccess']
+
+lang: de
+
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
+- LICENSE
+- README.md
+- myNotes
+
+sass:
+  style: :compressed

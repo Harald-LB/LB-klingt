@@ -1,0 +1,26 @@
+//
+// Add your Branding & Corporate Identity Design here
+//
+
+$SV-green: #94D510;//#bceb00;
+$SV-complement: complement($SV-green);
+$SV-complement-dark: desaturate(darken($SV-complement, 35%),60%);
+
+$body-bg: #4d4d57;// #ffffff;
+$body-color: white;//#5a5a5a;
+
+$theme-colors: (
+        "primary": $SV-green,
+        "success": $SV-green
+);
+
+
+$link-color:                              $SV-green;
+$link-decoration:                         none;
+$link-hover-color:                        lighten($link-color, 30%);
+$link-hover-decoration:                   underline ;
+// Darken percentage for links with `.text-*` class (e.g. `.text-success`)
+$emphasized-link-hover-darken-percentage: 15% ;
+
+$hr-border-color: $SV-green;
+$danger: #ff5100;
