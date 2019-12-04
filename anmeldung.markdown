@@ -7,7 +7,7 @@ extra_js: "form-validation.js"
 
 # Hier kannst du euer Projekt anmelden
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Ludwigsburg klingt dolor sit amet, consectetur adipiscing elit. 
 Donec tincidunt mi nec arcu bibendum, et aliquet justo consequat. 
 Donec vitae neque sem. Pellentesque sollicitudin ante at mollis imperdiet.
 Vivamus hendrerit, erat at gravida lobortis, augue turpis dignissim tortor,

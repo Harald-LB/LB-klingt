@@ -1,8 +1,8 @@
 ---
 ---
 {
-  "name": "Lorem ipsum",
-  "short_name": "Lorem ipsum",
+  "name": "Ludwigsburg klingt",
+  "short_name": "LB-klingt",
   "icons": [
     {
       "src": "{{ site.baseurl }}/assets/img/favicons/android-chrome-192x192.png",
