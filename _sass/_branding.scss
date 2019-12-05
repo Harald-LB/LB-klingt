@@ -2,6 +2,8 @@
 // Add your Branding & Corporate Identity Design here
 //
 
+
+
 $SV-green: #94D510;//#bceb00;
 $SV-complement: complement($SV-green);
 $SV-complement-dark: desaturate(darken($SV-complement, 35%),60%);
@@ -24,3 +26,19 @@ $emphasized-link-hover-darken-percentage: 15% ;
 
 $hr-border-color: $SV-green;
 $danger: #ff5100;
+
+$nav-tabs-link-active-bg: $body-bg;
+$nav-tabs-link-active-color: $body-color;
+$nav-tabs-link-active-border-color: $SV-green $SV-green $nav-tabs-link-active-bg;
+
+$nav-tabs-border-color:       $SV-green;
+
+$nav-tabs-link-hover-border-color:  $gray-500 $gray-500 $nav-tabs-border-color ;
+
+.nav-link {
+  color: $gray-500;
+  @include hover {
+    color: $gray-200;
+
+  }
+}

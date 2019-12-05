@@ -1,35 +1,4 @@
----
-layout: default
-title: Impressum
-menu_position: 30
----
-
-# Impressum 
-
-- Name und Anschrift: STADTVERBAND MUSIK  Ludwigsburg 1966 e.V.
-
-
-- Geschäftsstelle: Nicole Bacher, SVM Geschäftsstelle, Beim Hasenkreuz 6, 71696 Möglingen
-- E-Mail-Adresse: VorstandSVMusik@svm-ludwigsburg.de
-- Registergericht: Stuttgart
-- Registernummer: VR 200578
-
-Impressum Angaben im Sinne von § 5 TMG
-
-- [Vereinsfoerderungsrichtlinien Stand 01.01.2019.pdf (683.93KB)]()
-- [SvGuM Geschäftsordnung 2017.pdf (209.1KB)]()
-- [Satzung SvGuM 2017.pdf (138.84KB)]()
-
-
-### Haftungsausschluss
-Wir sind bemüht, dieses Webangebot stets aktuell und inhaltlich richtig sowie vollständig anzubieten. Dennoch ist das Auftreten von Fehlern   nicht völlig auszuschließen. Wir übernehmen keine Haftung für die Aktualität, die inhaltliche Richtigkeit sowie für die Vollständigkeit der in diesem Webangebot eingestellten Informationen, es sei denn die Fehler wurden vorsätzlich oder grob fahrlässig aufgenommen.
-Dies bezieht sich auf eventuelle Schäden Dritter, materieller oder ideeller Art, die durch die Nutzung dieses Webangebotes verursacht wurden.
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links.
-Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich. 
-
-### Datenschutzerklärung
-
-Verantwortliche Stelle im Sinne der Datenschutzgesetze ist:
+Verantwortlich im Sinne der Datenschutzgesetze sind:
 
 Rudi Artinger, Gabriele Seyfang, Frank Nafzger
 
