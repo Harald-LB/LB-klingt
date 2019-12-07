@@ -1,7 +1,18 @@
 - __Name und Anschrift:__ STADTVERBAND MUSIK  Ludwigsburg 1966 e.V.
 - __Geschäftsstelle:__ Nicole Bacher, SVM Geschäftsstelle, Beim Hasenkreuz 6, 71696 Möglingen
-- __E-Mail-Adresse:__ VorstandSVMusik@svm-ludwigsburg.de
-- __Registergericht:__ Stuttgart
+- __E-Mail-Adresse:__ <script language='javascript' type='text/javascript'><!--
+                      //
+                      x = '&#64;';
+                      eml = '&#86;&#111;&#114;&#115;&#116;&#97;&#110;&#100;&#83;&#86;&#77;&#117;&#115;&#105;&#107;' + x + '&#115;&#118;&#109;&#45;&#108;&#117;&#100;&#119;&#105;&#103;&#115;&#98;&#117;&#114;&#103;&#46;&#100;&#101;';
+                      msg = '&#86;&#111;&#114;&#115;&#116;&#97;&#110;&#100;&#83;&#86;&#77;&#117;&#115;&#105;&#107;' + x + '&#115;&#118;&#109;&#45;&#108;&#117;&#100;&#119;&#105;&#103;&#115;&#98;&#117;&#114;&#103;&#46;&#100;&#101;';
+                      out = '<a href="mailto:' + eml + '">' + msg + '</a>';
+                      document.write(out);
+                      // -->
+                      </script>
+                      <noscript>
+                      &#86;&#111;&#114;&#115;&#116;&#97;&#110;&#100;&#83;&#86;&#77;&#117;&#115;&#105;&#107; (at) &#115;&#118;&#109;&#45;&#108;&#117;&#100;&#119;&#105;&#103;&#115;&#98;&#117;&#114;&#103;&#46;&#100;&#101; 
+                      </noscript>
+ - __Registergericht:__ Stuttgart
 - __Registernummer:__ VR 200578
 
 Impressum Angaben im Sinne von § 5 TMG
