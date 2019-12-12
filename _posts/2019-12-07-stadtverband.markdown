@@ -2,6 +2,7 @@
 layout: article
 title:  "Stadtverband"
 subtitle: "die Organisation"
+teaser_position: 20
 excerpt_separator: <!--more-->
 title_image: "assets/img/music/trumpet-3883798_1920.jpg"
 ---

@@ -4,16 +4,28 @@ layout: default
 
 <!-- _layouts/landingpage.html -->
 {% include carousel.html %}
-   <!-- Wrap the rest of the page in another container to center all the content. -->
   <div class="container marketing">
-    {%- for post in site.posts -%}
+
+    {{ content }}
+    {% assign sorted_posts = site.posts | sort: "teaser_position" %}
+    {% assign text_left = true %}
+    {% assign first_feature = true %}
+    {%- for post in sorted_posts -%}
+    {% unless first_feature %}
+    <hr class="featurette-divider">
+    {% endunless %}
+    {% assign first_feature = false %}
+    {% if text_left %}
     <div class="row featurette">
       <div class="col-md-7">
-        <h2 class="featurette-heading">{{ post.title | escape }} <span class="text-muted">{{ post.subtitle | escape }}</span></h2>
+        <h2 class="featurette-heading">{{ post.title | escape }}
+          <span class="text-muted">{{ post.subtitle | escape }}</span></h2>
         <div class="lead">
           {{ post.excerpt }}
         </div>
+        {% unless post.only_teaser %}
         <a class="btn btn-lg btn-primary" href="{{ post.url | relative_url }}" role="button">Mehr...</a>
+        {% endunless %}
       </div>
       <div class="col-md-5">
         <img src="{{post.title_image}}"
@@ -22,10 +34,32 @@ layout: default
              height="500"
              class="bd-placeholder-img-lg featurette-image img-fluid mx-auto">
       </div>
-
     </div>
-    {%- endfor -%}
+    {% assign text_left = false %}
+    {% else %}
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">{{ post.title | escape }}
+          <span class="text-muted">{{ post.subtitle | escape }}</span></h2>
+        <div class="lead">
+          {{ post.excerpt }}
+        </div>
+        {% unless post.only_teaser %}
+        <a class="btn btn-lg btn-primary" href="{{ post.url | relative_url }}" role="button">Mehr...</a>
+        {% endunless %}
+      </div>
+      <div class="col-md-5 order-md-1">
+        <img src="{{post.title_image}}"
+             alt=""
+             width="500"
+             height="500"
+             class="bd-placeholder-img-lg featurette-image img-fluid mx-auto">
+      </div>
+    </div>
+    {% assign text_left = true %}
+    {% endif %}
+    {% endfor %}
 
-    {{ content }}
+
   </div><!-- /.container -->
 <!-- End _layouts/landingpage.html -->
