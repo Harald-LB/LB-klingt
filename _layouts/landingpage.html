@@ -12,7 +12,7 @@ layout: default
     {% assign first_feature = true %}
     {%- for post in sorted_posts -%}
     {% unless first_feature %}
-    <hr class="featurette-divider">
+    <hr class="my-md-5">
     {% endunless %}
     {% assign first_feature = false %}
     {% if text_left %}
@@ -24,7 +24,7 @@ layout: default
           {{ post.excerpt }}
         </div>
         {% unless post.only_teaser %}
-        <a class="btn btn-lg btn-primary" href="{{ post.url | relative_url }}" role="button">Mehr...</a>
+        <a class="btn btn-outline-primary" href="{{ post.url | relative_url }}" role="button">Mehr...</a>
         {% endunless %}
       </div>
       <div class="col-md-5">
@@ -32,20 +32,20 @@ layout: default
              alt=""
              width="500"
              height="500"
-             class="bd-placeholder-img-lg featurette-image img-fluid mx-auto">
+             class="featurette-image img-fluid mx-auto">
       </div>
     </div>
     {% assign text_left = false %}
     {% else %}
     <div class="row featurette">
-      <div class="col-md-7 order-md-2">
+      <div class="col-md-7 order-md-2 mb-3">
         <h2 class="featurette-heading">{{ post.title | escape }}
           <small class="text-muted">{{ post.subtitle | escape }}</small></h2>
         <div class="lead">
           {{ post.excerpt }}
         </div>
         {% unless post.only_teaser %}
-        <a class="btn btn-lg btn-primary" href="{{ post.url | relative_url }}" role="button">Mehr...</a>
+        <a class="btn btn-outline-primary" href="{{ post.url | relative_url }}" role="button">Mehr...</a>
         {% endunless %}
       </div>
       <div class="col-md-5 order-md-1">
@@ -53,7 +53,7 @@ layout: default
              alt=""
              width="500"
              height="500"
-             class="bd-placeholder-img-lg featurette-image img-fluid mx-auto">
+             class="featurette-image img-fluid mx-auto">
       </div>
     </div>
     {% assign text_left = true %}

@@ -1,7 +1,7 @@
 ---
 layout: article
 title:  "Ludwigsburg klingt!"
-subtitle: "mach mit"
+subtitle: "macht mit"
 teaser_position: 10
 excerpt_separator: <!--more-->
 title_image: "assets/img/music/mv-p-3.jpg"
@@ -10,3 +10,7 @@ title_image: "assets/img/music/mv-p-3.jpg"
 - Werbe neue Mitglieder für deinen Verein.
 
 <!--more-->
+alle Vereine im Bereich Ludwigsburg
+
+Denkbar sind Kooperation 
+
