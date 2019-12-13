@@ -4,11 +4,18 @@ title:  "Veranstaltungsorte"
 subtitle: "Wo könnt ihr auftreten"
 teaser_position: 30
 excerpt_separator: <!--more-->
-title_image: "assets/img/music/mv-p-3.jpg"
+title_image: "assets/img/music/svm-1.jpg"
+# title_image: "assets/img/music/dl.maxpixel.freegreatpicture.com.jpeg"
 ---
-um Sie auf dem Laufenden zu halten, schicken wir Ihnen Infos über den derzeitigen Stand der Planungen zu LBklingt: 
+Die Aktionen finden an unterschiedlichen 
+Veranstaltungsorten
+im Innenbereich der 
+Stadt statt. 
+
+Hier ist der aktuelle Stand der Planungen zu LB-klingt.
 <!--more-->
-Inzwischen ist es uns gelungen für folgende Veranstaltungsorte eine Zusage zu bekommen: 
+
+Für folgende Veranstaltungsorte haben wir bisher eine Zusage zu bekommen: 
 
 1. Großer Saal Kulturzentrum
 2. Feuerseemensa

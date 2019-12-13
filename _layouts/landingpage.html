@@ -17,8 +17,8 @@ layout: default
     {% assign first_feature = false %}
     {% if text_left %}
     <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading">{{ post.title | escape }}
+      <div class="col-md-7 mb-3">
+        <h2 class="featurette-heading mb-md-3">{{ post.title | escape }}
           <small class="text-muted">{{ post.subtitle | escape }}</small></h2>
         <div class="lead">
           {{ post.excerpt }}
@@ -39,7 +39,7 @@ layout: default
     {% else %}
     <div class="row featurette">
       <div class="col-md-7 order-md-2 mb-3">
-        <h2 class="featurette-heading">{{ post.title | escape }}
+        <h2 class="featurette-heading mb-md-3">{{ post.title | escape }}
           <small class="text-muted">{{ post.subtitle | escape }}</small></h2>
         <div class="lead">
           {{ post.excerpt }}
