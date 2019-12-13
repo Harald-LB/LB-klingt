@@ -1,6 +1,8 @@
 /* GLOBAL STYLES
 -------------------------------------------------- */
 
+@import "bootstrap/vendor/_rfs.scss";
+
 /* Placeholder in input fields  shall be more subtle*/
 
 .form-control::-webkit-input-placeholder { /* Edge */
@@ -53,6 +55,7 @@ body {
   z-index: 10;
 
   h1 {
+    font-size: 5rem;
     text-shadow: 2px 2px 6px black, 0 0 5em black, 0 0 0.2em black;
   }
 

@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Ludwigsburg klingt"
+title:  "Ludwigsburg klingt!"
 subtitle: "mach mit"
 teaser_position: 10
 excerpt_separator: <!--more-->
