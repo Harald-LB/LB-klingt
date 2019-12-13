@@ -9,34 +9,34 @@ title_image: "assets/img/music/trumpet-3883798_1920.jpg"
 ---
 Am 20. Juni 2020 zeigen
 Musikvereine, Chöre und Orchester von Schulen und Kirchen 
-die ganze Vielfalt der ludwigsburger Laienmusikszene.
+die ganze Vielfalt der Ludwigsburger Laienmusikszene.
 
 So schaffen wir die Möglichkeit,
-sich einem breiten Publikum zu präsentieren, Hemmschwellen abzubauen und die
+sich einem breiten Publikum zu präsentieren, Hemmschwellen abzubauen, und die
 schönste Nebenbeschäftigung, das „Selber-Musizieren“, im nichtprofessionellen
-Bereich darzustellen. 
+Bereich vorzustellen. 
 
 Aktionen und Darbietungen der Chöre und Orchester sind weder an
-eine bestimmte Teilnehmerzahl noch an eine Altersgrenze gebunden.
+eine bestimmte Teilnehmerzahl, noch an eine Altersgrenze gebunden.
 
-Jedes Ensemble kann mit Kurzauftritten von ca. 20 bis 45 Minuten für sich kostenlos werben
+Jedes Ensemble kann mit Kurzauftritten von ca. 20-45 Minuten kostenlos für sich werben.
 <!--more-->
-Eingeladen sind alle Musikvereine, Ensembles und Chöre aus Ludwigsburg und Umgebung. Eine
+
+Eingeladen sind alle Musikvereine, Ensembles und Chöre aus Ludwigsburg und Umgebung. Die
 Mitgliedschaft im 
 [Stadtverband Musik Ludwigsburg e.V.](https://www.svm-ludwigsburg.de/)
-ist nicht Voraussetzung.
+ist keine Voraussetzung.
 
 Die Aktionen finden an unterschiedlichen 
 [Veranstaltungsorten]({{ site.baseurl }}{% link _posts/2019-12-11-veranstaltungsorte.markdown %})
-im Innenbereich der 
-Stadt statt. 
+im Stadtzentrum statt. 
 
-Das jeweilige Motto bestimmt ihr
-selbst, der Fantasie sind keine Grenzen gesetzt. 
-Besonders spannend könnten auch Kooperationen von ganz unterschiedlichen Ensembles
-sein, vielleicht bietet sich die Gelegenheit, mal etwas Neues zu wagen.
+Das jeweilige Motto bestimmt Ihr
+selbst, der Phantasie sind keine Grenzen gesetzt. 
+Besonders spannend könnten auch Kooperationen unterschiedlichster Ensembles
+sein, vielleicht bietet sich die Gelegenheit, einmal etwas Neues zu wagen.
 
-Falls nicht schon geschehen, gleich 
+Gleich 
 [hier]({{ site.baseurl }}{% link anmeldung.markdown %})
-anmelden.
+könnt Ihr Euch anmelden.
 

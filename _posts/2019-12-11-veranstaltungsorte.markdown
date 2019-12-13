@@ -9,16 +9,15 @@ title_image: "assets/img/music/svm-1.jpg"
 ---
 Die Aktionen finden an unterschiedlichen 
 Veranstaltungsorten
-im Innenbereich der 
-Stadt statt. 
+im Stadtzentrum statt. 
 
-Hier ist der aktuelle Stand der Planungen zu LB-klingt.
+Aktueller Stand der Planungen zu LB-klingt:
 <!--more-->
 
-Für folgende Veranstaltungsorte haben wir bisher eine Zusage zu bekommen: 
+Bisher haben wir Zusagen für folgende Veranstaltungsorte: 
 
 1. Großer Saal Kulturzentrum
-2. Feuerseemensa
+2. Feuersee-Mensa
 3. Markt8
 4. Innenhof MIK
 5. Lesegarten Stadtbibliothek
@@ -27,9 +26,9 @@ Für folgende Veranstaltungsorte haben wir bisher eine Zusage zu bekommen:
 8. Karlskaserne
 9. Ratskellergarten
 10. Fußgängerzone
-11. Platz hinter der evangelischen Kirche
+11. Platz hinter der Evangelischen Kirche
 12. Marktplatz
 13. Rathaushof
-14. Akademiehof.
+14. Akademiehof
 
 
