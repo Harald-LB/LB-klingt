@@ -1,6 +1,6 @@
 Verantwortlich im Sinne der Datenschutzgesetze sind:
 
-Rudi Artinger, Gabriele Seyfang, Frank Nafzger
+Rudolf Artinger, Gabriele Seyfang, Frank Nafzger
 
 ### Cookies
 

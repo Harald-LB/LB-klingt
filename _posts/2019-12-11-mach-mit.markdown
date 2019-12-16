@@ -4,13 +4,14 @@ title:  "Ludwigsburg klingt!"
 subtitle: "macht mit"
 teaser_position: 10
 excerpt_separator: <!--more-->
-#title_image: "assets/img/music/tuba-3303811_1920.jpg"
 title_image: "assets/img/music/trumpet-3883798_1920.jpg"
 ---
+{::options parse_block_html="true" /}
+<div class="teaser">
 Am 20. Juni 2020 zeigen
-Musikvereine, Chöre und Orchester von Schulen und Kirchen 
+Musik- und Gesangvereine, Ensembles, Chöre und Orchester von Schulen und Kirchen
 die ganze Vielfalt der Ludwigsburger Laienmusikszene.
-
+ 
 So schaffen wir die Möglichkeit,
 sich einem breiten Publikum zu präsentieren, Hemmschwellen abzubauen, und die
 schönste Nebenbeschäftigung, das „Selber-Musizieren“, im nichtprofessionellen
@@ -20,9 +21,10 @@ Aktionen und Darbietungen der Chöre und Orchester sind weder an
 eine bestimmte Teilnehmerzahl, noch an eine Altersgrenze gebunden.
 
 Jedes Ensemble kann mit Kurzauftritten von ca. 20-45 Minuten kostenlos für sich werben.
+</div>
 <!--more-->
 
-Eingeladen sind alle Musikvereine, Ensembles und Chöre aus Ludwigsburg und Umgebung. Die
+Eingeladen sind alle Musikvereine, Ensembles und Chöre aus Ludwigsburg. Die
 Mitgliedschaft im 
 [Stadtverband Musik Ludwigsburg e.V.](https://www.svm-ludwigsburg.de/)
 ist keine Voraussetzung.
@@ -31,12 +33,12 @@ Die Aktionen finden an unterschiedlichen
 [Veranstaltungsorten]({{ site.baseurl }}{% link _posts/2019-12-11-veranstaltungsorte.markdown %})
 im Stadtzentrum statt. 
 
-Das jeweilige Motto bestimmt Ihr
+Das jeweilige Motto bestimmt ihr
 selbst, der Phantasie sind keine Grenzen gesetzt. 
 Besonders spannend könnten auch Kooperationen unterschiedlichster Ensembles
 sein, vielleicht bietet sich die Gelegenheit, einmal etwas Neues zu wagen.
 
 Gleich 
 [hier]({{ site.baseurl }}{% link anmeldung.markdown %})
-könnt Ihr Euch anmelden.
+könnt ihr euch anmelden.
 

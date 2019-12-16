@@ -4,14 +4,16 @@ title:  "Veranstaltungsorte"
 subtitle: "Wo könnt ihr auftreten"
 teaser_position: 30
 excerpt_separator: <!--more-->
-title_image: "assets/img/music/svm-1.jpg"
-# title_image: "assets/img/music/dl.maxpixel.freegreatpicture.com.jpeg"
+title_image: "assets/img/music/svm-2.jpg"
 ---
+{::options parse_block_html="true" /}
+<div class="teaser">
 Die Aktionen finden an unterschiedlichen 
 Veranstaltungsorten
 im Stadtzentrum statt. 
 
 Aktueller Stand der Planungen zu LB-klingt:
+</div>
 <!--more-->
 
 Bisher haben wir Zusagen für folgende Veranstaltungsorte: 

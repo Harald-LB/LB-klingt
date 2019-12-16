@@ -37,6 +37,23 @@ body {
   left: 0;
 }
 
+
+.teaser {
+  font-style: italic;
+  border-bottom-style: solid;
+  border-bottom-color: $gray-600;
+  border-bottom-width: thin;
+  margin-bottom:1rem;
+}
+
+.marketing {
+  .teaser {
+    font-style: normal;
+    border-bottom-style: none;
+  }
+
+}
+
 /*
          Specific to the form layout
 */
