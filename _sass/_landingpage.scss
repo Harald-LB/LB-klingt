@@ -41,7 +41,7 @@ body {
 .teaser {
   font-style: italic;
   border-bottom-style: solid;
-  border-bottom-color: $gray-600;
+  border-bottom-color: $SV-green;// $gray-600;
   border-bottom-width: thin;
   margin-bottom:1rem;
 }
@@ -116,7 +116,7 @@ body {
 }
 
 .marketing h2 {
-  font-weight: 400;
+ // font-weight: 400;
 }
 
 .marketing .col-lg-4 p {

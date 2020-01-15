@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efa7bab5-62a3-403d-a845-4600a882c398" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/LB-klingt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/harald.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0e/ef65c3949c22ec833f7e62d01abacdb3e7af52795e8f917c670741f71b4b47" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0f/0ea43cf12699a69873d6502e6faef889eddfce47fefe27ee36d1a9d45d27c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1d/2433dcdc8e568116fbdc6574c05f90be915b10fb1df6c2444e36ff5f42afa0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/27/6bba4fdc42f906dcf7aa0e4054a1fc0c7b439ac1bc15d8ca57a9318f2a7256" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3a/d710543130465061c10dc2143ded3d9d739e3336f58bdccb4d4efd43396080" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/46/0f2145b2ab2f4fbafc7aff6198de4fc415f4b1538f48890429eb6156b4ae73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/f0ab776424e31cae71d301046091304463852a0a1f7a6e0e458d01868618d4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6d/4e1078748cbc1d07d43efbe15cf53e2e80627c7208b2723cb3e12d54c6cb60" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/79/0819c5867dc82f3b92f38f5be3391816c096f0782ce7d64fc06f5c39777097" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7d/2e1724af1672461d6591eb7468800f01796363ae95db546b7964f29e8efa18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7d/a4cc3884957e95731be594626bba147232a3f7f1a126dea5d11c49ab854b0f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/85/2de92357785e1e19f6424c96c05f36dd005431c73b0a8f0784a1d9c3c60ab6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9c/82ad753a750fa9433f615d9e2b1dff823b55cddc97af6b4f1267141cfe4851" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a4/d982ad5cb17ff8a2daea4c1e1bfd669822843af866e29b524a561ae756bc65" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c5/f2b36b938d5d8b09baeddafde29cf70a54d849a0811fe7a43a96c407bbf3e4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c8/6a8eba57cc3caea0e937afbf5b954c67b370e2664bf2f6c08efd419611b87d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d2/faddea9df735daf6fa0d6d9898e1348b9eddc7e0e0b75339c2d4d1964376c4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e1/129c60410f33bb0476166c1bf9adffe53e1bb8a1cbbd32c43d97f326dccd18" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-gemset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/2019-10-26-Minimal-With-Jekyll4-Bootstrap4.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/2019-12-13-StatusBericht.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/2020-Ludwigsburg-klingt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/Color/PaletonAccentedAnalogic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/Color/PaletonTenDegree.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/Color/adobe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/Color/paletton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/Color/spotify-waechst-schneller-als.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/Color/will-weit-hinaus-einer-der.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/Spezification.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/beispiele.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/googleMaps.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/21161123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/21222828.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/23033386.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/23241156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/23826015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/26041935.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/8896042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/9315441.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/flecken/blueBlot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/freegreatpixel/Keyboard-Grand-Piano-Piano-Instrument-Music-Old-2897109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/freegreatpixel/Music-Blur-Guitar-Hands-1851426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/freegreatpixel/Musical-Instruments-Drum-Set-Drums-1839383.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/freegreatpixel/Toddlers-Brother-And-Sister-Singing-Church-Hymn-1499312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/freegreatpixel/concert-2.freegreatpicture.com.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/freegreatpixel/concert-3.freegreatpicture.com.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/freegreatpixel/concert.freegreatpicture.com.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/freegreatpixel/dl.maxpixel.freegreatpicture.com.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/Quellen.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/band-691224_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/blood-1294355.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/brass-band-246987_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/brass-band-246987_960_720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/concert-4378414_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/concluded-favorite-1696016_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/graphic-3656032.ai" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/ludwigsburg-germany-2779468_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/music-2644761_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/paint-2174686.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/piano-notes-2460937.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/splat-42890.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/spot-42879.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/trumpet-1495108_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/trumpet-3883798_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/images/pixabay/tuba-3303811_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/Anmeldung Teilnehmende Chöre und Ensembles.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/Konzeption LB KLINGT 2020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/impressum.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/Flyer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/Packshot2018_LKZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/Responsive-Webdesign-818px.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/ToolGuyd-Visitor-Device-Trend-2014-2018-Corrected.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/facebookLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/plakate.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/poster_kiesler_2000x1125-web_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/qrcode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/lb-klingt-Docs/website-concept/web-site.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_myNotes/setting_jump_targets.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/anmeldung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/brand/bootstrap-outline.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/brand/bootstrap-punchout.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/brand/bootstrap-social-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/brand/bootstrap-social.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/brand/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/carousel/MV-P-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/carousel/MV-P-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/carousel/MVO-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/carousel/SVM-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/lb-kling-medium.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/lb-kling-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/lb-kling.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-310x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/mstile-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/safari-pinned-tab-lb-klingt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/favicons/safari-pinned-tab-lb-klingt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/icons/pdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/Musical-Instruments-Drum-Set-Drums-1839383.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/Toddlers-Brother-And-Sister-Singing-Church-Hymn-1499312.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/brass-band-246987_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/concert-3.freegreatpicture.com.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/concert2.freegreatpicture.com.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/dirigent.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/dl.maxpixel.freegreatpicture.com.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/mv-p-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/street-music-2644761_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/svm-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/svm-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/trumpet-3883798_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/music/tuba-3303811_1920.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/teilnehmer/Chorfestival_Popptones_171021_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/teilnehmer/PoplibetsChorbild_am_Klavier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/teilnehmer/Sunlights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/teilnehmer/TA_in_Karlskaserne-am_06102018_Foto_BanuAksu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/teilnehmer/waldorfschule-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/js/extra/form-validation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/js/vendor/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/js/vendor/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/js/vendor/jquery-slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/js/vendor/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/styles/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/mach-mit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/stadtverband.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/teilnehmer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/veranstaltungsorte.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/music/svm-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/teilnehmer/Chorfestival_Popptones_171021_32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/teilnehmer/PoplibetsChorbild_am_Klavier.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/teilnehmer/Sunlights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/teilnehmer/TA_in_Karlskaserne-am_06102018_Foto_BanuAksu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/teilnehmer/waldorfschule-01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-11-teilnehmer.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-11-teilnehmer.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_branding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_branding.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_landingpage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_landingpage.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/ludwigsburg/ludwigsburg-germany-2779468_1920.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UWj21EbfoOPBkpVJnCWghYGgeL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="PluginDummyText.Genre" value="latin" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/teilnehmer" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/teilnehmer" />
+      <recent name="$PROJECT_DIR$/_layouts" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets/img/carousel" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="2" Folder0="$USER_HOME$/.config/libreoffice/4/user/wordbook" Folder1="$USER_HOME$/.config/libreoffice/4/user/wordbook" CustomDictionaries="2" CustomDictionary0="$USER_HOME$/.config/libreoffice/4/user/wordbook/Deutsch.dic" CustomDictionary1="$USER_HOME$/.config/libreoffice/4/user/wordbook/standard.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efa7bab5-62a3-403d-a845-4600a882c398" name="Default Changelist" comment="" />
+      <created>1575479035155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575479035155</updated>
+      <workItem from="1575479040863" duration="451000" />
+      <workItem from="1575479520093" duration="18670000" />
+      <workItem from="1575715409232" duration="31000" />
+      <workItem from="1575715455061" duration="16121000" />
+      <workItem from="1576078781942" duration="13662000" />
+      <workItem from="1576150150615" duration="10805000" />
+      <workItem from="1576238813504" duration="1934000" />
+      <workItem from="1576240791815" duration="23910000" />
+      <workItem from="1576270589166" duration="657000" />
+      <workItem from="1576272023826" duration="669000" />
+      <workItem from="1576273698728" duration="2523000" />
+      <workItem from="1576487772371" duration="8485000" />
+      <workItem from="1578415585201" duration="517000" />
+      <workItem from="1578936570677" duration="6100000" />
+      <workItem from="1579000535823" duration="18327000" />
+      <workItem from="1579095249720" duration="8468000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1575479669098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575479669098</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Lorem Ipsum&quot; entfernt.">
+      <created>1575481545936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575481545936</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;about&quot; hinzugefügt.">
+      <created>1575505925132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575505925132</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Unused CSS removed.">
+      <created>1575717778080</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575717778080</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mail cloaking added.">
+      <created>1575717885595</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575717885595</updated>
+    </task>
+    <task id="LOCAL-00006" summary="includes and layouts reordered.">
+      <created>1575729318262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575729318262</updated>
+    </task>
+    <task id="LOCAL-00007" summary="carousel reworked.">
+      <created>1576092856915</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576092856915</updated>
+    </task>
+    <task id="LOCAL-00008" summary="landing-page: teasers placed automagicly.">
+      <created>1576163045797</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576163045797</updated>
+    </task>
+    <task id="LOCAL-00009" summary="landing-page: teasers placed automagicly.">
+      <created>1576239312240</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576239312240</updated>
+    </task>
+    <task id="LOCAL-00010" summary="article layout.">
+      <created>1576254611825</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576254611825</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Schreibfehler korrigiert.">
+      <created>1576275380602</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576275380602</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Korrekturen, entsprechend Treffen ORGA-Team am 14.10.2019">
+      <created>1576497592115</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576497592116</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Teilnehmer hinzugefügt">
+      <created>1579011589047</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579011589047</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="Initial" />
+    <MESSAGE value="&quot;Lorem Ipsum&quot; entfernt." />
+    <MESSAGE value="&quot;about&quot; hinzugefügt." />
+    <MESSAGE value="Unused CSS removed." />
+    <MESSAGE value="mail cloaking added." />
+    <MESSAGE value="includes and layouts reordered." />
+    <MESSAGE value="carousel reworked." />
+    <MESSAGE value="landing-page: teasers placed automagicly." />
+    <MESSAGE value="article layout." />
+    <MESSAGE value="Schreibfehler korrigiert." />
+    <MESSAGE value="Korrekturen, entsprechend Treffen ORGA-Team am 14.10.2019" />
+    <MESSAGE value="Teilnehmer hinzugefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teilnehmer hinzugefügt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="446" width="970" height="623" key="CommitChangelistDialog2" timestamp="1579011588441">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state x="476" y="446" width="970" height="623" key="CommitChangelistDialog2/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579011588441" />
+    <state x="743" y="513" width="436" height="489" key="FileChooserDialogImpl" timestamp="1579018004624">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state x="743" y="513" width="436" height="489" key="FileChooserDialogImpl/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579018004624" />
+    <state x="708" y="465" width="505" height="585" key="RollbackChangesDialog" timestamp="1578938010497">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state x="708" y="465" width="505" height="585" key="RollbackChangesDialog/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1578938010497" />
+    <state x="1914" y="0" width="1036" height="1286" maximized="true" key="dock-window-1" timestamp="1578937828079">
+      <screen x="1920" y="0" width="1024" height="1280" />
+    </state>
+    <state x="1914" y="0" width="1036" height="1286" maximized="true" key="dock-window-1/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1578937828079" />
+    <state x="606" y="464" width="707" height="582" key="find.popup" timestamp="1579004064940">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state x="606" y="464" width="707" height="582" key="find.popup/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579004064940" />
+  </component>
+</project>
