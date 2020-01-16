@@ -4,7 +4,8 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.idea/
 
 /Gemfile.lock
 /_myNotes/
-/_myNotes/
+_myNotes/

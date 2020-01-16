@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efa7bab5-62a3-403d-a845-4600a882c398" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/teilnehmer/waldorfschule-02.jpg" afterDir="false" />
+    <list default="true" id="efa7bab5-62a3-403d-a845-4600a882c398" name="Default Changelist" comment="Teilnehmer hinzugefügt">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LB-klingt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LB-klingt.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/27/6bba4fdc42f906dcf7aa0e4054a1fc0c7b439ac1bc15d8ca57a9318f2a7256" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/46/0f2145b2ab2f4fbafc7aff6198de4fc415f4b1538f48890429eb6156b4ae73" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/f0ab776424e31cae71d301046091304463852a0a1f7a6e0e458d01868618d4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/79/0819c5867dc82f3b92f38f5be3391816c096f0782ce7d64fc06f5c39777097" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7d/a4cc3884957e95731be594626bba147232a3f7f1a126dea5d11c49ab854b0f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a4/d982ad5cb17ff8a2daea4c1e1bfd669822843af866e29b524a561ae756bc65" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c5/f2b36b938d5d8b09baeddafde29cf70a54d849a0811fe7a43a96c407bbf3e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c8/6a8eba57cc3caea0e937afbf5b954c67b370e2664bf2f6c08efd419611b87d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-11-teilnehmer.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-11-teilnehmer.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_landingpage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_landingpage.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/styles/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/styles/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/teilnehmer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/teilnehmer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +36,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyModuleStructureConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -97,7 +84,8 @@
       <workItem from="1578936570677" duration="6100000" />
       <workItem from="1579000535823" duration="18327000" />
       <workItem from="1579095249720" duration="9168000" />
-      <workItem from="1579187101505" duration="7895000" />
+      <workItem from="1579187101505" duration="8208000" />
+      <workItem from="1579199546448" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1575479669098</created>
@@ -197,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579108598629</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Teilnehmer hinzugefügt">
+      <created>1579198893106</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1579198893106</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,18 +229,58 @@
     <option name="LAST_COMMIT_MESSAGE" value="Teilnehmer hinzugefügt" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="476" y="446" width="970" height="623" key="CommitChangelistDialog2" timestamp="1579108597960">
+    <state x="646" y="576" width="970" height="623" key="CommitChangelistDialog2" timestamp="1579200359480">
       <screen x="0" y="225" width="1920" height="1055" />
     </state>
-    <state x="476" y="446" width="970" height="623" key="CommitChangelistDialog2/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579108597960" />
+    <state x="646" y="576" width="970" height="623" key="CommitChangelistDialog2/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579200359480" />
     <state x="743" y="513" width="436" height="489" key="FileChooserDialogImpl" timestamp="1579018004624">
       <screen x="0" y="225" width="1920" height="1055" />
     </state>
     <state x="743" y="513" width="436" height="489" key="FileChooserDialogImpl/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579018004624" />
+    <state width="1870" height="342" key="GridCell.Tab.0.bottom" timestamp="1579199090404">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state width="1870" height="342" key="GridCell.Tab.0.bottom/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199090404" />
+    <state width="1870" height="342" key="GridCell.Tab.0.center" timestamp="1579199090404">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state width="1870" height="342" key="GridCell.Tab.0.center/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199090404" />
+    <state width="1870" height="342" key="GridCell.Tab.0.left" timestamp="1579199090404">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state width="1870" height="342" key="GridCell.Tab.0.left/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199090404" />
+    <state width="1870" height="342" key="GridCell.Tab.0.right" timestamp="1579199090404">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state width="1870" height="342" key="GridCell.Tab.0.right/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199090404" />
+    <state width="1870" height="342" key="GridCell.Tab.1.bottom" timestamp="1579199090405">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state width="1870" height="342" key="GridCell.Tab.1.bottom/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199090405" />
+    <state width="1870" height="342" key="GridCell.Tab.1.center" timestamp="1579199090404">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state width="1870" height="342" key="GridCell.Tab.1.center/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199090404" />
+    <state width="1870" height="342" key="GridCell.Tab.1.left" timestamp="1579199090404">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state width="1870" height="342" key="GridCell.Tab.1.left/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199090404" />
+    <state width="1870" height="342" key="GridCell.Tab.1.right" timestamp="1579199090404">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state width="1870" height="342" key="GridCell.Tab.1.right/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199090404" />
     <state x="708" y="465" width="505" height="585" key="RollbackChangesDialog" timestamp="1578938010497">
       <screen x="0" y="225" width="1920" height="1055" />
     </state>
     <state x="708" y="465" width="505" height="585" key="RollbackChangesDialog/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1578938010497" />
+    <state x="441" y="390" width="1037" height="735" key="SettingsEditor" timestamp="1579199936999">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state x="441" y="390" width="1037" height="735" key="SettingsEditor/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199936999" />
+    <state x="555" y="491" width="812" height="534" key="Vcs.Push.Dialog.v2" timestamp="1579199672858">
+      <screen x="0" y="225" width="1920" height="1055" />
+    </state>
+    <state x="555" y="491" width="812" height="534" key="Vcs.Push.Dialog.v2/0.225.1920.1055/1920.0.1024.1280@0.225.1920.1055" timestamp="1579199672858" />
     <state x="1914" y="0" width="1036" height="1286" maximized="true" key="dock-window-1" timestamp="1578937828079">
       <screen x="1920" y="0" width="1024" height="1280" />
     </state>
