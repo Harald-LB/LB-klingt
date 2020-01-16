@@ -19,18 +19,19 @@ Vielleicht habt ihr auch ein Youtube Video oder Foto, das euch in Aktion zeigt?
 Hier sind die bisher eingegangenen Beiträge:
 </div>
 <!--more-->
+{::options parse_block_html="false" /}
       
 # Gesangverein Eintracht Poppenweiler 1862 e.v.
 Singen macht Spaß, singen tut gut…
 
 Mit einem abwechslungsreichen Programm sind die  "PoppTones" bei _Ludwigsburg klingt!_ dabei.
-Wir singen für euch unter anderem Titel aus dem letzten "Friends"-Konzert aber auch neue Lieder
+Wir singen für euch unter anderem Titel aus dem letzten "Friends"-Konzert, aber auch neue Lieder,
 welche ihr bei unserem kommenden "Lieder einer Stadt"-Konzert im Oktober hören könnt.  
 
 ![Eintracht Poppenweiler](assets/img/teilnehmer/Chorfestival_Popptones_171021_32.jpg){: .img-fluid}
 
 Lust auf mehr? Dann schnell zu den Chören der Eintracht Poppenweiler.
-Egal ob musikalische Früherziehung ab 18 Monaten, Kinder- Jugend- oder gemischter
+Egal, ob musikalische Früherziehung ab 18 Monaten, Kinder- Jugend- oder gemischter
 Chor – wir bieten für jeden den passenden Rahmen.
 Oder du denkst du bist zu alt zum Singen?
 Dann bist du in unserem SMS-Chor ab 65 Jahren genau richtig.
@@ -62,21 +63,21 @@ Mehr unter [tonart.kai-mueller-choere.de](https://kai-mueller-choere.de/ludwigsb
 # Die Poplibets - der junge Chor
 
 Unser Chorname beschreibt unseren Chor sehr treffend. Zum einen setzt er sich aus der
-Musikrichtung Pop und zum anderen aus dem Begriff  Quadlibet zusammen. „Ein Quodlibet ist ein
-Musikstück in dem ursprünglich voneinander unabhängige Melodien zu einem gemeinsamen Musikstück
-kombiniert werden. Im Gegensatz zum Potpourri oder Medley, werden die Melodien nicht nacheinander
-sondern gleichzeitig und teilweise auch mehrstimmig gesungen.  Die mit absichtlich
-unzusammenhängende Aneinanderreihung soll eine spaßhafte Wirkung hervorbringen.“ Als Popmusik
-wird Musik bezeichnet, die vorwiegend seit den 1950er Jahren aus dem Rock´n´Roll,
+Musikrichtung Pop und zum anderen aus dem Begriff  Quadlibet zusammen.
+
+„Ein Quodlibet ist ein Musikstück in dem ursprünglich voneinander unabhängige Melodien zu einem gemeinsamen Musikstück 
+kombiniert werden. Im Gegensatz zum Potpourri oder Medley, werden die Melodien nicht nacheinander sondern gleichzeitig 
+und teilweise auch mehrstimmig gesungen. Die absichtlich unzusammenhängende Aneinanderreihung soll eine spaßhafte Wirkung 
+hervorbringen.
+Als Popmusik wird Musik bezeichnet, die vorwiegend seit den 1950er Jahren aus dem Rock´n´Roll,
 der Beatmusik dem Jazz und dem Folk entstanden ist.“ Nun hat die damalige und jetzige Chorleiterin
 Sabine Wieland die zwei Begriffe zusammen geführt und ihrem Chor diesen Namen gegeben.
 
 ![Poplibets](assets/img/teilnehmer/PoplibetsChorbild_am_Klavier.jpg){: .img-fluid}
 
-Wir haben viel Spaß vor, während und nach unseren Chorprobem und beim Singen und bedienen
-dabei ein breites Repertoire an Musikstücken, die wir singen: Pop, Rock, Musical,
-Klassik, Gospel, Kirchenmusik, Weltmusik, Weihnachtsmusik, Musik aus aller Welt,
-um nur einige Genres hervorzuheben.
+Wir haben viel Spaß vor, während und nach unseren Chorproben und beim Singen und bedienen
+dabei ein breites Repertoire an Musikstücken: Pop, Rock, Musical, Klassik, Gospel, Kirchenmusik, 
+Weltmusik, Weihnachtsmusik, Musik aus aller Welt, um nur einige Genres zu nennen.
 
 Bei _Ludwigsburg klingt!_ werden wir Filmhits zum Besten geben,
 lassen Sie sich von unserem breiten Repertoire überraschen.
@@ -90,7 +91,11 @@ Mehr unter [www.poplibets-osseil.de](http://www.poplibets-ossweil.de/)
 "Musikprojekt" bedeutet an der Freien Waldorfschule Ludwigsburg, dass jeder einzelne
 Schüler von Klasse 5-11 mit seinem Instrument in einem klassenübergreifenden Ensemble spielt.
 
-![Waldorfschule](assets/img/teilnehmer/waldorfschule-01.jpg){: .img-fluid}
+<div class="d-flex justify-content-start flex-row">
+  <div class="py-2"><img src="assets/img/teilnehmer/waldorfschule-01.jpg" alt="Waldorfschule 1" class="img-fluid"></div>
+  <div class="py-2 pl-sm-3"><img src="assets/img/teilnehmer/waldorfschule-02.jpg" alt="Waldorfschule 2"  class="img-fluid"></div>
+</div>
+
 
 Bei _Ludwigsburg klingt!_ nehmen die Gruppen der Klassen 6-8 teil: Blockflöten, Gitarren,
 Holzbläser, Blechbläser, Streichorchester.
@@ -111,8 +116,20 @@ Wir möchten unsere Gäste nicht nur stimmlich begeistern, sondern untermalen un
 stets mit Gesten und kleinen Choreografien. Zu unserem Repertoire gehören neben Pop- und
 Rocksongs auch Musical-Hits, Spirituals, Evergreens und Country- und Western-Songs.
 
+Mehr unter [liederkranz-neckarweihingen.de/sunlights/](https://liederkranz-neckarweihingen.de/sunlights/)
+
 Bei _Ludwigsburg klingt!_  werden wir mit aktuellen Pop-/Rocksongs als auch Evergreens auftreten.
 
-[Sunlights - Durch Zeit und Raum](https://youtu.be/yjCtgPfGYXs) - ein Video auf Youtube.
+<div class="d-flex justify-content-start flex-row">
+  <div class="py-2">
+    <a href="https://youtu.be/yjCtgPfGYXs">
+    <img src="assets/img/teilnehmer/Sunlights_Youtube.jpg" alt="Sunlights_Youtube" class="img-fluid pr-3">
+    </a>
+  </div>
+  <div class="align-self-center">
+    <a href="https://youtu.be/yjCtgPfGYXs">Sunlights - Durch Zeit und Raum</a> 
+    - ein Youtube Video.
+  </div>
+</div>
 
-Mehr unter [liederkranz-neckarweihingen.de/sunlights/](https://liederkranz-neckarweihingen.de/sunlights/)
+

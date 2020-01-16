@@ -30,7 +30,18 @@ body {
   background-color: rgba($SV-complement-dark, 0.75);
 }
 
-/* an anchor to jump to when a form is not valid */
+//
+// we need to offset the scroll anchor, so that  the navbar is not covering the text.
+// see also https://stackoverflow.com/questions/49331572/offset-scroll-anchor-in-html-with-bootstrap-4-fixed-navbar/49331692
+h1:before {
+  display: block;
+  height: 120px;   // equal to the navbar height
+  margin-top: -120px;  // negative margin equal to the navbar height
+  visibility: hidden;
+  content: "";
+}
+
+/* an anchor to jump to when an entry in the contact-form is filled  not valid */
 .SV-invalid-anchor {
   position: absolute;
   top: -64px; // push up by navbar height
