@@ -158,6 +158,7 @@ Wir sind "Saxoforte" - das Saxophonensemble des Musikverein Eglosheim.
   </div>
  </div>
 </div>
+{::options parse_block_html="false" /}
 
 Wir bieten Ihnen bei _Ludwigsburg klingt!_ die Möglichkeit uns bei einem Platzkonzert
 kennenzulernen. Erleben Sie beeindruckende Basslinien von unserem Bariton-Saxophonisten,
@@ -170,4 +171,13 @@ Genießen Sie Klassiker wie den Pink Panther von Henri Mancini oder American Pet
 Glenn Miller oder lassen Sie sich in die Welt der Filmmusik entführen und fiebern Sie
 mit bei Mission Impossible oder der Raumpatrouille Orion. Wir freuen uns auf Ihren Besuch!
 
+<audio controls>
+  <source src="assets/audio/saxoforte/Saxoforte_Puttin_on_the_Ritz.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> 
+
 Link auf unsere Homepage: [http://mv-eglosheim.de/saxoforte.html](http://mv-eglosheim.de/saxoforte.html)
+
+<hr class="my-md-3">  
+
+# Musikverein Eglosheim
