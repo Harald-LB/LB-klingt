@@ -1,5 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
-### Jekyll template
+#Jekyll template
 _site/
 .sass-cache/
 .jekyll-cache/
@@ -7,6 +6,4 @@ _site/
 .idea/
 
 /Gemfile.lock
-/_myNotes/
-_myNotes/
-/_site/
+
