@@ -189,8 +189,19 @@ Zwei Audiodateien von uns:
 
 
 
-Link auf unsere Homepage: [http://mv-eglosheim.de/saxoforte.html](http://mv-eglosheim.de/saxoforte.html)
+Link auf unsere Homepage: [mv-eglosheim.de/saxoforte.html](http://mv-eglosheim.de/saxoforte.html)
 
 <hr class="my-md-3">  
 
+<h1 id="mv-eglosheim">Das große Orchester des Musikvereins Eglosheim</h1>
 
+In diesem Jahr werden wir 100 Jahre alt. Seit 1920 gibt es schon den Musikverein Eglosheim.
+Angefangen wurde mit ein paar Instrumenten, die ein Gründungsmitglied in der Arsenalkaserne fand.
+Als dann noch eine Trommel und ein Becken gestiftet wurde, war die erste Blaskapelle fertig.
+           
+![MV-Eglosheim](assets/img/teilnehmer/MV-EglosheimGruppenbild.jpg){: .img-fluid}                
+
+Wir spielen alles was uns gefällt, von traditioneller Blasmusik über Pop bis zu Schlagern
+und dies wollen wir auch an der Veranstaltung _Ludwigsburg klingt!_, präsentieren.
+ 
+Link zu unserer Homepage: [mv-eglosheim.de](http://mv-eglosheim.de/)
