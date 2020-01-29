@@ -9,19 +9,26 @@ title_image: "assets/img/music/mv-p-3.jpg"
 ---
 {::options parse_block_html="true" /}
 <div class="teaser">
-Hier stellen wir die einzelnen Projekte vor, sowie
-wo und wann die Auftritte stattfinden. 
-
-Schickt uns eine kurze Beschreibung
+Hier stellen wir die einzelnen Projekte vor. Schickt uns eine kurze Beschreibung
 zu eurem Projekt und eurem Ensemble/Verein.
 Vielleicht habt ihr auch ein Youtube Video oder Foto, das euch in Aktion zeigt?
 
 Hier sind die bisher eingegangenen Beiträge:
+
+- [Gesangverein Eintracht Poppenweiler 1862 e.v.](/teilnehmer.html#gesangverein-eintracht-poppenweiler-1862-ev)
+- [TonArt Ludwigsburg e.V.](/teilnehmer.html#tonart-ludwigsburg-ev)
+- [Die Poplibets - der junge Chor](/teilnehmer.html#die-poplibets---der-junge-chor)
+- [Freie Waldorfschule Ludwigsburg](/teilnehmer.html#freie-waldorfschule-ludwigsburg)
+- [Sunlights](/teilnehmer.html#sunlights)
+- [Saxoforte](/teilnehmer.html#saxoforte)
+- [Das große Orchester des Musikvereins Eglosheim](/teilnehmer.html#mv-eglosheim)
+- [Zitherclub Oßweil](/teilnehmer.html#zitherclub-ossweil)
+
 </div>
 <!--more-->
 {::options parse_block_html="false" /}
       
-# Gesangverein Eintracht Poppenweiler 1862 e.v.
+<h1 id="gesangverein-eintracht-poppenweiler-1862-ev">Gesangverein Eintracht Poppenweiler 1862 e.v.</h1>
 Singen macht Spaß, singen tut gut…
 
 Mit einem abwechslungsreichen Programm sind die  "PoppTones" bei _Ludwigsburg klingt!_ dabei.
@@ -44,7 +51,7 @@ Mehr unter [www.singen-in-poppenweiler.de](https://www.singen-in-poppenweiler.de
 
 <hr class="my-md-3">  
 
-# TonArt Ludwigsburg e.V.
+<h1 id="tonart-ludwigsburg-ev">TonArt Ludwigsburg e.V.</h1>
 Unter dem Titel "Liebling, mein Herz lässt dich grüßen" präsentiert
 TonArt Ludwigsburg e.V. eine Auswahl an Stücken der Comedian Harmonists.
 
@@ -60,7 +67,7 @@ Mehr unter [tonart.kai-mueller-choere.de](https://kai-mueller-choere.de/ludwigsb
 
 <hr class="my-md-3">  
  
-# Die Poplibets - der junge Chor
+<h1 id="die-poplibets---der-junge-chor">Die Poplibets - der junge Chor</h1>
 
 Unser Chorname beschreibt unseren Chor sehr treffend. Zum einen setzt er sich aus der
 Musikrichtung Pop und zum anderen aus dem Begriff Quodlibet zusammen.
@@ -86,8 +93,8 @@ lassen Sie sich von unserem breiten Repertoire überraschen.
 Mehr unter [www.poplibets-osseil.de](http://www.poplibets-ossweil.de/)
 
 <hr class="my-md-3">  
- 
-# Freie Waldorfschule Ludwigsburg 
+  
+<h1 id="freie-waldorfschule-ludwigsburg">Freie Waldorfschule Ludwigsburg</h1>
 
 "Musikprojekt" bedeutet an der Freien Waldorfschule Ludwigsburg, dass jeder einzelne
 Schüler von Klasse 5-11 mit seinem Instrument in einem klassenübergreifenden Ensemble spielt.
@@ -205,3 +212,45 @@ Wir spielen alles was uns gefällt, von traditioneller Blasmusik über Pop bis z
 und dies wollen wir auch an der Veranstaltung _Ludwigsburg klingt!_, präsentieren.
  
 Link zu unserer Homepage: [mv-eglosheim.de](http://mv-eglosheim.de/)
+
+<hr class="my-md-3">  
+
+<h1 id="zitherclub-ossweil">Zitherclub Oßweil</h1>
+
+Der Zitherclub Oßweil e.V. begeistert jedes Jahr aufs Neue sein Publikum mit außergewöhnlichen
+und einzigartigen Konzerten auf sehr hohem spielerischen Niveau.
+
+![Zitherclub](assets/img/teilnehmer/zitherclub.jpg){: .img-fluid}    
+
+Bei _Ludwigsburg klingt!_  wird der eigens für den Zitherclub von Marc Oliver Bischoff geschriebene
+Kriminalroman „Zithterpartie oder Juri Gagarin erledigt alles und jeden“ gelesen.
+Die Handlung wird musikalisch durch das 1. Orchester des Zitherclubs Oßweil in Szene gesetzt.
+
+<div class="row">
+   <div class="col-sm">
+     <figure>
+       <a href="https://www.ardmediathek.de/swr/player/Y3JpZDovL3N3ci5kZS9hZXgvbzExNzI5ODU/">
+        <img src="assets/img/teilnehmer/zitherclub-video-1.jpg" alt="Video: SWR Fernsehen, Zitherclub Oßweil" class="img-fluid">
+       </a>
+       <figcaption>
+          <a href="https://www.ardmediathek.de/swr/player/Y3JpZDovL3N3ci5kZS9hZXgvbzExNzI5ODU/">
+             Zitherclub Oßweil - 14.11.2019 Kaffee oder Tee ∙ SWR Fernsehen.
+          </a>
+       </figcaption>
+    </figure> 
+   </div>
+    <div class="col-sm">
+      <figure>
+        <a href="https://www.ardmediathek.de/swr/player/Y3JpZDovL3N3ci5kZS9hZXgvbzExNjI0Nzc/">
+         <img src="assets/img/teilnehmer/zitherclub-video-2.jpg" alt="Video: 100 Jahre Zitherclub Oßweil" class="img-fluid">
+        </a>
+        <figcaption>
+          <a href="https://www.ardmediathek.de/swr/player/Y3JpZDovL3N3ci5kZS9hZXgvbzExNjI0Nzc/">
+             Krimi trifft Saiten: 100 Jahre Zitherclub Oßweil - 15.10.2019 Landesschau
+          </a>
+        </figcaption>
+      </figure> 
+     </div>
+</div>
+
+Link zu unserer Homepage: [www.zitherclub-ossweil.de](http://zitherclub-ossweil.de/)
