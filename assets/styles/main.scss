@@ -5,8 +5,17 @@
  * Copyright 2019 Harald-LB
  */
 
+//in order to have `baseurl` variable expanded, the we need to define the  path to the carousel images here.
 
+$carousel-image-1-sm: '{{ site.baseurl }}/assets/img/carousel/MV-P-01-sm.jpg';
+$carousel-image-2-sm: '{{ site.baseurl }}/assets/img/carousel/MVO-01-sm.jpg';
+$carousel-image-3-sm: '{{ site.baseurl }}/assets/img/carousel/SVM-01-sm.jpg';
+$carousel-image-4-sm: '{{ site.baseurl }}/assets/img/carousel/MV-P-02-sm.jpg';
 
+$carousel-image-1: '{{ site.baseurl }}/assets/img/carousel/MV-P-01.jpg';
+$carousel-image-2: '{{ site.baseurl }}/assets/img/carousel/MVO-01.jpg';
+$carousel-image-3: '{{ site.baseurl }}/assets/img/carousel/SVM-01.jpg';
+$carousel-image-4: '{{ site.baseurl }}/assets/img/carousel/MV-P-02.jpg';
 
 // Required
 @import "bootstrap/functions";
