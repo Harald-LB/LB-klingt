@@ -24,7 +24,8 @@ Hier sind die bisher eingegangenen Beiträge:
 - [Das große Orchester des Musikvereins Eglosheim](/teilnehmer.html#mv-eglosheim)
 - [Zitherclub Oßweil](/teilnehmer.html#zitherclub-ossweil)
 - [Kiesmen Ensemble](/teilnehmer.html#kiesmen)
-
+- [Jugendmusikschule Ludwigsburg e.V.](/teilnehmer.html#jms-lb)
+- [Die Brenz Band](/teilnehmer.html#brenz-band)
 
 </div>
 <!--more-->
@@ -280,3 +281,64 @@ stimmgewaltig vorgetragenen dramatischen Stücken.
 Lassen Sie sich von unserer Auswahl überraschen.
 
 Weitere Infos und Kontaktdaten finden sie unter [https://tvn.chayns.net/Gesang](https://tvn.chayns.net/Gesang).
+
+<hr class="my-md-3">  
+
+<h1 id="jms-lb">Jugendmusikschule Ludwigsburg e.V.</h1>
+
+Die Jugendmusikschule Ludwigsburg e.V. bietet als Mitglied im Verband deutscher
+Musikschulen 3.300 Schülerinnen und Schülern instrumental, vokal und elementar eine
+hochwertige und umfassende musikalische Ausbildung vom Einstieg in den Elementarfächern
+bis zur Förderung von Spitzenbegabungen.
+
+![Jugendmusikschule Ludwigsburg e.V](assets/img/teilnehmer/jms-1.jpg){: .img-fluid}   
+
+Bei der Veranstaltung _Ludwigsburg klingt!_ wird neben dem Ladylu-Streichquartett und
+der Streicherklasse Oßweil das Percussionensemble und die Erfolgsband der
+Jugendmusikschule „Latin Touch“ die Herzen der Besucher höherschlagen lassen.
+Darüber hinaus freuen sich die Kinder der Musikalischen Früherziehung gemeinsam mit Ihnen,
+Ludwigsburg zum Klingen zu bringen. 
+
+Weitere Informationen über die Jugendmusikschule Ludwigsburg e.V.
+finden Sie unter: [www.jms-lb.de](https://www.jugendmusikschule-ludwigsburg.de/).
+Gerne beantworten wir Ihre Fragen telefonisch unter Tel: 07141/ 971370.
+
+<hr class="my-md-3">  
+
+<h1 id="brenz-band">Die Brenz Band</h1>
+
+Wer kennt sie nicht, die „Rolling Stones der Inklusion“
+Seit über 40 Jahren auf der ganzen Welt unterwegs und in Ludwigsburg Zuhause.
+
+![Brenz Band](assets/img/teilnehmer/brenzband-1.jpg){: .img-fluid}   
+
+Als Botschafter für den Frieden der Unesco  ist es unsere Aufgabe zu vermitteln was Menschen mit Handicap leisten können.
+
+<div class="row">
+   <div class="col-sm">
+     <figure>
+       <a href="https://youtu.be/eUz-9hpyy1w">
+        <img src="assets/img/teilnehmer/brenzband-video-1.jpg" alt="Video: Für immer VfB (Version 2018)" class="img-fluid">
+       </a>
+       <figcaption>
+          <a href="https://youtu.be/eUz-9hpyy1w">
+             Für immer VfB (Version 2018)
+          </a>
+       </figcaption>
+    </figure> 
+   </div>
+    <div class="col-sm"> 
+         <figure>
+           <a href="http://www.brenzband.de/">
+            <img src="assets/img/teilnehmer/brenzband-logo.jpg" 
+                 alt="Brenz Band Logo" 
+                 class="img-fluid" style="max-height: 12rem">
+           </a>
+           <figcaption>
+                <a href="http://www.brenzband.de/">
+                 www.brenzband.de
+              </a>
+           </figcaption>
+        </figure> 
+    </div>
+</div>
