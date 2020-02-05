@@ -23,6 +23,8 @@ Hier sind die bisher eingegangenen Beiträge:
 - [Saxoforte](/teilnehmer.html#saxoforte)
 - [Das große Orchester des Musikvereins Eglosheim](/teilnehmer.html#mv-eglosheim)
 - [Zitherclub Oßweil](/teilnehmer.html#zitherclub-ossweil)
+- [Kiesmen Ensemble](/teilnehmer.html#kiesmen)
+
 
 </div>
 <!--more-->
@@ -254,3 +256,27 @@ Die Handlung wird musikalisch durch das 1. Orchester des Zitherclubs Oßweil in 
 </div>
 
 Link zu unserer Homepage: [www.zitherclub-ossweil.de](http://zitherclub-ossweil.de/)
+
+<hr class="my-md-3">  
+
+<h1 id="kiesmen">Kiesmen Ensemble</h1>
+
+Das 2017 gegründete Kiesmen Ensemble ist ein Teil der Gesangsabteilung des TV Neckarweihingen.
+Unter der Leitung von Markus Nafzger tragen wir als reiner Männerchor unsere Stücke,
+bis auf sehr wenige Ausnahmen, acapella vor.
+
+Getreu dem Motto "Singen mit Freunden" wird bei uns auch die Kameradschaft hoch gehalten
+und bei gemeinsamen Unternehmungen wie z.B. Probewochenenden, Sommerfesten und natürlich
+auch bei den wöchentlichen Proben gepflegt und gelebt.
+
+![kiesmen](assets/img/teilnehmer/kiesmen.jpg){: .img-fluid}   
+
+Ebenfalls sind wir traditionell in Neckarweihingen auf dem "Kiesranzenfest" und dem
+"Weihnachtsmarkt" mit einem Stand vor Ort, bieten dort u.a. die leckere,
+exklusive Spezialität "Kiesranzen" an und laden unsere Gäste zum Verweilen und zum Plaudern ein.
+
+Unser Repertoire umfasst ein breites Spektrum von sanften Balladen bis hin zu
+stimmgewaltig vorgetragenen dramatischen Stücken.
+Lassen Sie sich von unserer Auswahl überraschen.
+
+Weitere Infos und Kontaktdaten finden sie unter [https://tvn.chayns.net/Gesang](https://tvn.chayns.net/Gesang).
