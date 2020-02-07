@@ -32,10 +32,10 @@ $nav-tabs-link-active-bg: $body-bg;
 $nav-tabs-link-active-color: $body-color;
 $nav-tabs-link-active-border-color: $SV-green $SV-green $nav-tabs-link-active-bg;
 
-// style the navbar-dark
+// restyle the "navbar-dark" style in order to increase legibility
 
-// $navbar-dark-color;
-// $navbar-dark-active-color;
+$navbar-dark-color: white;
+$navbar-dark-active-color: white;
 
 $nav-tabs-border-color:       $SV-green;
 
