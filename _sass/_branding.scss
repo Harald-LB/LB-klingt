@@ -27,9 +27,15 @@ $emphasized-link-hover-darken-percentage: 15% ;
 $hr-border-color: $SV-green;
 $danger: #ff5100;
 
+// style the nav-tabs (used in "about" page)
 $nav-tabs-link-active-bg: $body-bg;
 $nav-tabs-link-active-color: $body-color;
 $nav-tabs-link-active-border-color: $SV-green $SV-green $nav-tabs-link-active-bg;
+
+// style the navbar-dark
+
+// $navbar-dark-color;
+// $navbar-dark-active-color;
 
 $nav-tabs-border-color:       $SV-green;
 
