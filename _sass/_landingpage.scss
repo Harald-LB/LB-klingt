@@ -224,3 +224,30 @@ h1:before {
 .nav-link:focus {
   border-bottom-color: rgba(255, 255, 255, .25);
 }
+
+// the navigation bar (see _includes/navigation.html)
+.navbar-brand-image {
+  margin-left: 0;
+  width: 2.75rem;
+  height: 2.75rem;
+  opacity: 100%
+}
+
+@include media-breakpoint-up(sm) {
+  .navbar-brand-image {
+    margin-left: 3rem;
+    width: 4rem;
+    height: 4rem;
+    opacity: 100%
+  }
+}
+
+.navbar-brand {
+  font-size: 1rem;
+}
+
+@include media-breakpoint-up(sm) {
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+}
