@@ -31,7 +31,7 @@ Hier sind die bisher eingegangenen Beiträge:
 <!--more-->
 {::options parse_block_html="false" /}
       
-<h1 id="gesangverein-eintracht-poppenweiler-1862-ev">Gesangverein Eintracht Poppenweiler 1862 e.v.</h1>
+<h1 class="shifted-anchor" id="gesangverein-eintracht-poppenweiler-1862-ev">Gesangverein Eintracht Poppenweiler 1862 e.v.</h1>
 Singen macht Spaß, singen tut gut…
 
 Mit einem abwechslungsreichen Programm sind die  "PoppTones" bei _Ludwigsburg klingt!_ dabei.
@@ -54,7 +54,7 @@ Mehr unter [www.singen-in-poppenweiler.de](https://www.singen-in-poppenweiler.de
 
 <hr class="my-md-3">  
 
-<h1 id="tonart-ludwigsburg-ev">TonArt Ludwigsburg e.V.</h1>
+<h1 class="shifted-anchor" id="tonart-ludwigsburg-ev">TonArt Ludwigsburg e.V.</h1>
 Unter dem Titel "Liebling, mein Herz lässt dich grüßen" präsentiert
 TonArt Ludwigsburg e.V. eine Auswahl an Stücken der Comedian Harmonists.
 
@@ -70,7 +70,7 @@ Mehr unter [tonart.kai-mueller-choere.de](https://kai-mueller-choere.de/ludwigsb
 
 <hr class="my-md-3">  
  
-<h1 id="die-poplibets---der-junge-chor">Die Poplibets - der junge Chor</h1>
+<h1 class="shifted-anchor" id="die-poplibets---der-junge-chor">Die Poplibets - der junge Chor</h1>
 
 Unser Chorname beschreibt unseren Chor sehr treffend. Zum einen setzt er sich aus der
 Musikrichtung Pop und zum anderen aus dem Begriff Quodlibet zusammen.
@@ -97,7 +97,7 @@ Mehr unter [www.poplibets-osseil.de](http://www.poplibets-ossweil.de/)
 
 <hr class="my-md-3">  
   
-<h1 id="freie-waldorfschule-ludwigsburg">Freie Waldorfschule Ludwigsburg</h1>
+<h1 class="shifted-anchor" id="freie-waldorfschule-ludwigsburg">Freie Waldorfschule Ludwigsburg</h1>
 
 "Musikprojekt" bedeutet an der Freien Waldorfschule Ludwigsburg, dass jeder einzelne
 Schüler von Klasse 5-11 mit seinem Instrument in einem klassenübergreifenden Ensemble spielt.
@@ -203,7 +203,7 @@ Link auf unsere Homepage: [mv-eglosheim.de/saxoforte.html](http://mv-eglosheim.d
 
 <hr class="my-md-3">  
 
-<h1 id="mv-eglosheim">Das große Orchester des Musikvereins Eglosheim</h1>
+<h1 class="shifted-anchor" id="mv-eglosheim">Das große Orchester des Musikvereins Eglosheim</h1>
 
 In diesem Jahr werden wir 100 Jahre alt. Seit 1920 gibt es schon den Musikverein Eglosheim.
 Angefangen wurde mit ein paar Instrumenten, die ein Gründungsmitglied in der Arsenalkaserne fand.
@@ -218,7 +218,7 @@ Link zu unserer Homepage: [mv-eglosheim.de](http://mv-eglosheim.de/)
 
 <hr class="my-md-3">  
 
-<h1 id="zitherclub-ossweil">Zitherclub Oßweil</h1>
+<h1 class="shifted-anchor" id="zitherclub-ossweil">Zitherclub Oßweil</h1>
 
 Der Zitherclub Oßweil e.V. begeistert jedes Jahr aufs Neue sein Publikum mit außergewöhnlichen
 und einzigartigen Konzerten auf sehr hohem spielerischen Niveau.
@@ -260,7 +260,7 @@ Link zu unserer Homepage: [www.zitherclub-ossweil.de](http://zitherclub-ossweil.
 
 <hr class="my-md-3">  
 
-<h1 id="kiesmen">Kiesmen Ensemble</h1>
+<h1 class="shifted-anchor" id="kiesmen">Kiesmen Ensemble</h1>
 
 Das 2017 gegründete Kiesmen Ensemble ist ein Teil der Gesangsabteilung des TV Neckarweihingen.
 Unter der Leitung von Markus Nafzger tragen wir als reiner Männerchor unsere Stücke,
@@ -284,7 +284,7 @@ Weitere Infos und Kontaktdaten finden sie unter [https://tvn.chayns.net/Gesang](
 
 <hr class="my-md-3">  
 
-<h1 id="jms-lb">Jugendmusikschule Ludwigsburg e.V.</h1>
+<h1 class="shifted-anchor" id="jms-lb">Jugendmusikschule Ludwigsburg e.V.</h1>
 
 Die Jugendmusikschule Ludwigsburg e.V. bietet als Mitglied im Verband deutscher
 Musikschulen 3.300 Schülerinnen und Schülern instrumental, vokal und elementar eine
@@ -305,7 +305,7 @@ Gerne beantworten wir Ihre Fragen telefonisch unter Tel: 07141/ 971370.
 
 <hr class="my-md-3">  
 
-<h1 id="brenz-band">Die Brenz Band</h1>
+<h1 class="shifted-anchor" id="brenz-band">Die Brenz Band</h1>
 
 Wer kennt sie nicht, die „Rolling Stones der Inklusion“
 Seit über 40 Jahren auf der ganzen Welt unterwegs und in Ludwigsburg Zuhause.

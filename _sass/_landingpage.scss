@@ -33,7 +33,7 @@ body {
 //
 // we need to offset the scroll anchor, so that  the navbar is not covering the text.
 // see also https://stackoverflow.com/questions/49331572/offset-scroll-anchor-in-html-with-bootstrap-4-fixed-navbar/49331692
-h1:before {
+.shifted-anchor:before {
   display: block;
   height: 120px;   // equal to the navbar height
   margin-top: -120px;  // negative margin equal to the navbar height
@@ -206,7 +206,7 @@ h1:before {
 //}
 
 .nav-link {
-  padding: .25rem 0;
+  padding: .25rem 1rem ; //.25rem 0;
   font-weight: 700;
   color: rgba(255, 255, 255, .5);
   background-color: transparent;
