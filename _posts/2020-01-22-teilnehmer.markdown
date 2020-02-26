@@ -26,6 +26,7 @@ Hier sind die bisher eingegangenen Beiträge:
 - [Kiesmen Ensemble](/teilnehmer.html#kiesmen)
 - [Jugendmusikschule Ludwigsburg e.V.](/teilnehmer.html#jms-lb)
 - [Die Brenz Band](/teilnehmer.html#brenz-band)
+- [Die Jagdhornbläser](/teilnehmer.html#jagdhornblaeser)
 
 </div>
 <!--more-->
@@ -342,3 +343,23 @@ Als Botschafter für den Frieden der Unesco  ist es unsere Aufgabe zu vermitteln
         </figure> 
     </div>
 </div>
+
+<hr class="my-md-3">  
+
+<h1 class="shifted-anchor" id="jagdhornblaeser">Die Jagdhornbläser</h1>
+
+Wir, das Bläsercorps der Kreisjägervereinigung Ludwigsburg pflegt die Tradition der Jagdmusik,
+mit der in früheren Zeiten ohne Handy die Jagd mit Signalen im Ablauf organisiert wurde.
+Heute spielen wir auch Märsche und Fanfaren bei Veranstaltungen und
+beglückwünschen unsere Mitglieder bei runden Geburtstagen.
+
+![Die Jagdhornbläser](assets/img/teilnehmer/jagdhornblaeser-lg.jpg){: .img-fluid}   
+
+Bei der Veranstaltung _Ludwigsburg klingt!_ wird das Jagdhornbläsercorps verschiedene Märsche
+und Fanfaren aus den Bereichen Jagd und Reiten darbieten.
+
+Link zu unserer Homepage:
+[www.kjv-lb.de/fachbereiche/jagdhornblaeser/](https://www.kjv-lb.de/fachbereiche/jagdhornblaeser/)
+
+
+
