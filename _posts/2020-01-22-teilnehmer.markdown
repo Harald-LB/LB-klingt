@@ -9,11 +9,11 @@ title_image: "assets/img/music/mv-p-3.jpg"
 ---
 {::options parse_block_html="true" /}
 <div class="teaser">
-Hier stellen wir die einzelnen Projekte vor. Schickt uns eine kurze Beschreibung
+Hier können sich die einzelnen Projekte vorstellen. Schickt uns eine kurze Beschreibung
 zu eurem Projekt und eurem Ensemble/Verein.
 Vielleicht habt ihr auch ein Youtube Video oder Foto, das euch in Aktion zeigt?
 
-Hier sind die bisher eingegangenen Beiträge:
+Dies sind die bisher eingegangenen Beiträge:
 
 - [Gesangverein Eintracht Poppenweiler 1862 e.v.](/teilnehmer.html#gesangverein-eintracht-poppenweiler-1862-ev)
 - [TonArt Ludwigsburg e.V.](/teilnehmer.html#tonart-ludwigsburg-ev)
