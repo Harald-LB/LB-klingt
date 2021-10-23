@@ -10,8 +10,7 @@ Trägerschaft sind eingeladen, sich an der
 Veranstaltung am 21.5.2021 zu beteiligen. 
 
 Zusätzliche Kosten für Werbung und Raummiete
-entstehen den Teilnehmern nicht. Aktionen und Darbietungen der Chöre und Orchester sind weder an
-eine bestimmte Teilnehmerzahl noch an eine Altersgrenze gebunden.
+entstehen den Teilnehmern nicht. 
 
 Einfach das Formular ausfüllen und "Jetzt anmelden" klicken. Wir halten euch 
 über den Fortschritt der Planungen auf dem Laufenden.

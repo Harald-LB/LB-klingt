@@ -8,38 +8,37 @@ excerpt_separator: <!--more-->
 title_image: "assets/img/music/trumpet-3883798_1920.jpg"
 ---
 {::options parse_block_html="true" /}
-<div class="teaser">
-Am 20. Juni 2020 zeigen
+
+Am 20. Juni 2020 
+könnt ihr euren Verein einem breiten Publikum präsentieren,
+denn an diesem Tag
+zeigen
 Musik- und Gesangvereine, Ensembles, Chöre und Orchester von Schulen und Kirchen
 die ganze Vielfalt der Ludwigsburger Laienmusikszene.
  
-So schaffen wir die Möglichkeit,
-sich einem breiten Publikum zu präsentieren, Hemmschwellen abzubauen, und die
+So habt ihr Möglichkeit,
+euch einem breiten Publikum zu präsentieren, Hemmschwellen abzubauen, und die
 schönste Nebenbeschäftigung, das „Selber-Musizieren“, im nichtprofessionellen
 Bereich vorzustellen. 
 
+Gleich
+[hier]({{ site.baseurl }}{% link anmeldung.markdown %})
+könnt ihr euch anmelden.
+
 Aktionen und Darbietungen der Chöre und Orchester sind weder an
 eine bestimmte Teilnehmerzahl, noch an eine Altersgrenze gebunden.
-
-Jedes Ensemble kann mit Kurzauftritten von ca. 20-45 Minuten kostenlos für sich werben.
-</div>
 
 Eingeladen sind alle Musikvereine, Ensembles und Chöre aus Ludwigsburg. Die
 Mitgliedschaft im 
 [Stadtverband Musik Ludwigsburg e.V.](https://www.svm-ludwigsburg.de/)
 ist keine Voraussetzung.
 
-Die Aktionen finden an unterschiedlichen Veranstaltungsorten im Stadtzentrum statt.
-{% comment %}
-[Veranstaltungsorten]({{ site.baseurl }}{% link _posts/2019-12-11-veranstaltungsorte.markdown %})
-{% endcomment %}
-
 Das jeweilige Motto bestimmt ihr
 selbst, der Phantasie sind keine Grenzen gesetzt. 
 Besonders spannend könnten auch Kooperationen unterschiedlichster Ensembles
 sein, vielleicht bietet sich die Gelegenheit, einmal etwas Neues zu wagen.
 
-Gleich 
-[hier]({{ site.baseurl }}{% link anmeldung.markdown %})
-könnt ihr euch anmelden.
+Ladet das Publikum zum mitmachen ein. Erfindet kreative Mitmachaktionen.
+Macht so auf euren Verein aufmerksam und werbt auf diese Weise neue Mitglieder für
+euren Verein.
 

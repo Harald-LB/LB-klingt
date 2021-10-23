@@ -228,15 +228,15 @@ body {
 // the navigation bar (see _includes/navigation.html)
 .navbar-brand-image {
   margin-left: 0;
-  width: 2.75rem;
-  height: 2.75rem;
+  width: auto;
+  height: 4rem;
   opacity: 100%
 }
 
 @include media-breakpoint-up(sm) {
   .navbar-brand-image {
     margin-left: 3rem;
-    width: 4rem;
+    width: auto;
     height: 4rem;
     opacity: 100%
   }
