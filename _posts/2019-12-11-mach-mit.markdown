@@ -3,6 +3,7 @@ layout: article
 title:  "Ludwigsburg klingt!"
 subtitle: "macht mit"
 teaser_position: 10
+only_teaser: true
 excerpt_separator: <!--more-->
 title_image: "assets/img/music/trumpet-3883798_1920.jpg"
 ---
@@ -22,16 +23,16 @@ eine bestimmte Teilnehmerzahl, noch an eine Altersgrenze gebunden.
 
 Jedes Ensemble kann mit Kurzauftritten von ca. 20-45 Minuten kostenlos für sich werben.
 </div>
-<!--more-->
 
 Eingeladen sind alle Musikvereine, Ensembles und Chöre aus Ludwigsburg. Die
 Mitgliedschaft im 
 [Stadtverband Musik Ludwigsburg e.V.](https://www.svm-ludwigsburg.de/)
 ist keine Voraussetzung.
 
-Die Aktionen finden an unterschiedlichen 
+Die Aktionen finden an unterschiedlichen Veranstaltungsorten im Stadtzentrum statt.
+{% comment %}
 [Veranstaltungsorten]({{ site.baseurl }}{% link _posts/2019-12-11-veranstaltungsorte.markdown %})
-im Stadtzentrum statt. 
+{% endcomment %}
 
 Das jeweilige Motto bestimmt ihr
 selbst, der Phantasie sind keine Grenzen gesetzt. 

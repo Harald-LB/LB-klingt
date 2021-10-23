@@ -12,8 +12,10 @@ title_image: "assets/img/music/tuba-3303811_1920.jpg"
 <div class="teaser">
 Wir, der [STADTVERBAND MUSIK Ludwigsburg e.V.](https://www.svm-ludwigsburg.de/), 
 unterstützen euch, damit euer Auftritt ein voller Erfolg wird.
-Wir organisieren die 
+{% comment %}
 [Veranstaltungsorte,]({{ site.baseurl }}{% link _posts/2019-12-11-veranstaltungsorte.markdown %})
+{% endcomment %}
+Wir organisieren die Veranstaltungsorte,
 planen den Ablauf und helfen euch bei der Werbung.
 
 Dem Stadtverband gehören 26 Mitgliedsvereine und Organisationen an. 

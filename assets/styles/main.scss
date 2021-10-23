@@ -16,21 +16,25 @@ $carousel-image-1: '{{ site.baseurl }}/assets/img/carousel/MV-P-01.jpg';
 $carousel-image-2: '{{ site.baseurl }}/assets/img/carousel/MVO-01.jpg';
 $carousel-image-3: '{{ site.baseurl }}/assets/img/carousel/SVM-01.jpg';
 $carousel-image-4: '{{ site.baseurl }}/assets/img/carousel/MV-P-02.jpg';
+//Include bootstrap's  icon web fonts
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
 
 // Required
 @import "bootstrap/functions";
 @import "bootstrap/variables";
-@import "bootstrap/mixins";
 
 // Branding & Corporate Identity Design here
 @import "branding";
+@import "bootstrap/mixins";
+@import "bootstrap/utilities";
 
-// Optional
+
+// Layout & components
 @import "bootstrap/root";
 @import "bootstrap/reboot";
 @import "bootstrap/type";
 @import "bootstrap/images";
-@import "bootstrap/code";
+@import "bootstrap/containers";
 @import "bootstrap/grid";
 @import "bootstrap/tables";
 @import "bootstrap/forms";
@@ -38,18 +42,15 @@ $carousel-image-4: '{{ site.baseurl }}/assets/img/carousel/MV-P-02.jpg';
 @import "bootstrap/transitions";
 @import "bootstrap/dropdown";
 @import "bootstrap/button-group";
-@import "bootstrap/input-group";
-@import "bootstrap/custom-forms";
 @import "bootstrap/nav";
 @import "bootstrap/navbar";
 @import "bootstrap/card";
+@import "bootstrap/accordion";
 @import "bootstrap/breadcrumb";
 @import "bootstrap/pagination";
 @import "bootstrap/badge";
-@import "bootstrap/jumbotron";
 @import "bootstrap/alert";
 @import "bootstrap/progress";
-@import "bootstrap/media";
 @import "bootstrap/list-group";
 @import "bootstrap/close";
 @import "bootstrap/toasts";
@@ -58,8 +59,14 @@ $carousel-image-4: '{{ site.baseurl }}/assets/img/carousel/MV-P-02.jpg';
 @import "bootstrap/popover";
 @import "bootstrap/carousel";
 @import "bootstrap/spinners";
-@import "bootstrap/utilities";
-@import "bootstrap/print";
+@import "bootstrap/offcanvas";
+
+// Helpers
+@import "bootstrap/helpers";
+
+// Utilities
+@import "bootstrap/utilities/api";
+// scss-docs-end import-stack
 
 
 

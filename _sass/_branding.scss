@@ -46,10 +46,6 @@ $nav-tabs-link-hover-border-color:  $gray-500 $gray-500 $nav-tabs-border-color ;
 
 .nav-link {
   color: $gray-500;
-  @include hover {
-    color: $gray-200;
-
-  }
 }
 
 // Thin out the  headings (may be also "letter-spacing: -.05rem;")
