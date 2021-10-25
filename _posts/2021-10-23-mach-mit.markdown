@@ -15,15 +15,11 @@ denn an diesem Tag
 zeigen
 Musik- und Gesangvereine, Ensembles, Chöre und Orchester von Schulen und Kirchen
 die ganze Vielfalt der Ludwigsburger Laienmusikszene.
- 
-So habt ihr Möglichkeit,
-euch einem breiten Publikum zu präsentieren, Hemmschwellen abzubauen, und die
-schönste Nebenbeschäftigung, das „Selber-Musizieren“, im nichtprofessionellen
-Bereich vorzustellen. 
 
-Gleich
-[hier]({{ site.baseurl }}{% link anmeldung.markdown %})
-könnt ihr euch anmelden.
+So habt ihr die Möglichkeit an verschiedenen Veranstaltungsorten in der Innenstadt die schönste Nebenbeschäftigung, 
+das "Selber-Musizieren" im nichtprofessionellen Bereich, vorzustellen.
+
+[Gleich hier könnt ihr euch anmelden.]({{ site.baseurl }}{% link anmeldung.markdown %})
 
 Aktionen und Darbietungen der Chöre und Orchester sind weder an
 eine bestimmte Teilnehmerzahl, noch an eine Altersgrenze gebunden.

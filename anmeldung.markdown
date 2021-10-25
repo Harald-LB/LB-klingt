@@ -7,7 +7,7 @@ extra_js: "form-validation.js"
 ---
 Vereine aus dem Stadtverband Musik sowie Chöre und Orchester von Schulen, Kirchen und freier
 Trägerschaft sind eingeladen, sich an der 
-Veranstaltung am 21.5.2021 zu beteiligen. 
+Veranstaltung am 21.5.2022 zu beteiligen. 
 
 Zusätzliche Kosten für Werbung und Raummiete
 entstehen den Teilnehmern nicht. 

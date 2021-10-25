@@ -1,8 +1,8 @@
 ---
 ---
 {
-    "name": "Ludwigsburg singt",
-    "short_name": "LB-singt",
+    "name": "Ludwigsburg klingt",
+    "short_name": "LB-klingt",
     "icons": [
         {
             "src": "{{ site.baseurl }}/android-chrome-192x192.png",

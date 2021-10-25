@@ -1,19 +1,17 @@
 ---
 layout: participants
-title:  "Die Teilnehmer"
-subtitle: "wer macht mit"
-teaser_position: 40
+title:  "Projektvorstellungen"
+subtitle: "was war 2020 geplant"
+teaser_position: none
 only_teaser: false
 excerpt_separator: <!--more-->
 title_image: "assets/img/music/mv-p-3.jpg"
 ---
 {::options parse_block_html="true" /}
 <div class="teaser">
-Hier können sich die einzelnen Projekte vorstellen. Schickt uns eine kurze Beschreibung
-zu eurem Projekt und eurem Ensemble/Verein.
-Vielleicht habt ihr auch ein Youtube Video oder Foto, das euch in Aktion zeigt?
 
-Dies sind die bisher eingegangenen Beiträge:
+So haben sich die Vereine für die 2020 geplante Veranstaltung vorgestellt. Vielleicht
+kann man das eine oder andere für 2022 übernehmen.
 
 - [Gesangverein Eintracht Poppenweiler 1862 e.v.](/teilnehmer.html#gesangverein-eintracht-poppenweiler-1862-ev)
 - [TonArt Ludwigsburg e.V.](/teilnehmer.html#tonart-ludwigsburg-ev)
