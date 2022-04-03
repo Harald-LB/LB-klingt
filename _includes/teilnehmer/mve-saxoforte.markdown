@@ -34,20 +34,4 @@ Genießen Sie Klassiker wie den Pink Panther von Henri Mancini oder American Pet
 Glenn Miller oder lassen Sie sich in die Welt der Filmmusik entführen und fiebern Sie
 mit bei Mission Impossible oder der Raumpatrouille Orion. Wir freuen uns auf Ihren Besuch!
 
-Zwei Audiodateien von uns:
-<div>
-  <audio controls style="max-width: 100%;">
-    <source src="assets/audio/saxoforte/Saxoforte_Puttin_on_the_Ritz.mp3" type="audio/mpeg">
-    Ihr Browser unterstützt diese Audioformat leider nicht.
-  </audio> 
-  Putting On The Ritz
-</div>
-<div>
-  <audio controls style="max-width: 100%;">
-    <source src="assets/audio/saxoforte/Saxoforte_The Pink Panther.mp3" type="audio/mpeg">
-    Ihr Browser unterstützt diese Audioformat leider nicht.
-  </audio> 
-  The Pink Panther
-</div>
-
 Link auf unsere Homepage: [mv-eglosheim.de/saxoforte.html](http://mv-eglosheim.de/saxoforte.html)

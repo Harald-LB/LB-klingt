@@ -24,7 +24,7 @@ Homepage: [posaunenchorbezirk-ludwigsburg-ditzingen.de](http://posaunenchorbezir
 
 <hr class="my-md-3">  
 
-<h1 class="shifted-anchor" id="blech-lu-di">Großes Bezirksblech Ludwigsburg/Ditzingen</h1>
+h1 class="shifted-anchor" id="blech-lu-di">Großes Bezirksblech Ludwigsburg/Ditzingen</h1>
 
 Im Posaunenchorbezirk Ludwigsburg/Ditzingen sind alle Posaunenchöre der beiden Kirchenbezirke
 zusammengefasst. Während natürlich der Großteil des bläserischen Musizierens in den einzelnen

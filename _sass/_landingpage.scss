@@ -251,3 +251,9 @@ body {
     font-size: 1.5rem;
   }
 }
+.lead {
+  hr {
+    color: $SV-green;
+    opacity: 1;
+  }
+}

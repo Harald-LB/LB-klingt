@@ -18,8 +18,9 @@ die ganze Vielfalt der Ludwigsburger Laienmusikszene.
 
 So habt ihr die Möglichkeit an verschiedenen Veranstaltungsorten in der Innenstadt die schönste Nebenbeschäftigung, 
 das "Selber-Musizieren" im nichtprofessionellen Bereich, vorzustellen.
-
+{% comment %}
 [Gleich hier könnt ihr euch anmelden.]({{ site.baseurl }}{% link anmeldung.markdown %})
+{% endcomment %}
 
 Aktionen und Darbietungen der Chöre und Orchester sind weder an
 eine bestimmte Teilnehmerzahl, noch an eine Altersgrenze gebunden.
