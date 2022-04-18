@@ -11,9 +11,11 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
-      {% assign mainMenuPages = site.pages | sort: "menu_position" %}
+      {% assign allPages = site.pages | concat: site.posts %}
+      {% assign sortedPages = allPages | sort: "menu_position" %}
       <ul class="navbar-nav ">
-        {% for item in mainMenuPages %}
+        {% for item in sortedPages %}
+          {{item.url  | prepend: "<!--" | append: "-->"}}
           {%- if item.menu_position -%}
              {% assign itemMenuTitle = {{item.menu_title | default: item.title | escape}} %}
              {% if item.url == page.url %}
