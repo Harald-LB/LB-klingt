@@ -12,24 +12,24 @@ title_image: "assets/img/music/mv-p-3.jpg"
 <div class="teaser">
 Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern auch zahlreiche weitere musikalisch Aktive aus Ludwigsburg.
 
-- [Großes Bezirksblech Ludwigsburg/Ditzingen](/teilnehmer.html#bezirksblech)
-- [Bezirksposaunendienst Ludwigsburg/Ditzingen](/teilnehmer.html#bezirksposaunendienst)
-- [Gesangverein Eintracht Poppenweiler 1862 e.v.](/teilnehmer.html#gv-poppenweiler)
-- [Harmonika-Gemeinschaft Ludwigsburg e.V.](/teilnehmer.html#hgl)
-- [Harmonika Spielring Ludwigsburg ](/teilnehmer.html#hsl)
-- [Jugendchor Cantores Trinitatis ](/teilnehmer.html#cantores)
-- [Jugendmusikschule Ludwigsburg e.V.](/teilnehmer.html#jms)
-- [Kantorei - Karlshöhe Ludwigsburg](/teilnehmer.html#kantorei)
-- [Liedertafel Ludwigsburg 1838 e.V.](/teilnehmer.html#liedertafel)
-- [Musikverein Eglosheim - Großes Orchester ](/teilnehmer.html#mv-eglosheim)
-- [Musikverein Ludwigsburg-Oßweil e.V.](/teilnehmer.html#mv-ossweil)
-- [Musikverein Poppenweiler e.V.](/teilnehmer.html#mv-poppenweiler)
-- [Orgelmusik in der Stadtkirche](/teilnehmer.html#orgelmusik)
-- [Poplibets](/teilnehmer.html#poplibets)
-- [Posaunenchor des CVJM Ludwigsburg](/teilnehmer.html#cvjm)
-- [Sinfonieorchester Ludwigsburg](/teilnehmer.html#sinfonieorchester)
-- ["SchÜKOCHO" Schüler-Kolping-Chor](/teilnehmer.html#kolpingchor)
-- [Zitherclub Oßweil](/teilnehmer.html#zitherclub)
+- [Großes Bezirksblech Ludwigsburg/Ditzingen]({% post_url 2022-04-02-teilnehmer %}#bezirksblech)
+- [Bezirksposaunendienst Ludwigsburg/Ditzingen]({% post_url 2022-04-02-teilnehmer %}#bezirksposaunendienst)
+- [Gesangverein Eintracht Poppenweiler 1862 e.v.]({% post_url 2022-04-02-teilnehmer %}#gv-poppenweiler)
+- [Harmonika-Gemeinschaft Ludwigsburg e.V.]({% post_url 2022-04-02-teilnehmer %}#hgl)
+- [Harmonika Spielring Ludwigsburg ]({% post_url 2022-04-02-teilnehmer %}#hsl)
+- [Jugendchor Cantores Trinitatis ]({% post_url 2022-04-02-teilnehmer %}#cantores)
+- [Jugendmusikschule Ludwigsburg e.V.]({% post_url 2022-04-02-teilnehmer %}#jms)
+- [Kantorei - Karlshöhe Ludwigsburg]({% post_url 2022-04-02-teilnehmer %}#kantorei)
+- [Liedertafel Ludwigsburg 1838 e.V.]({% post_url 2022-04-02-teilnehmer %}#liedertafel)
+- [Musikverein Eglosheim - Großes Orchester ]({% post_url 2022-04-02-teilnehmer %}#mv-eglosheim)
+- [Musikverein Ludwigsburg-Oßweil e.V.]({% post_url 2022-04-02-teilnehmer %}#mv-ossweil)
+- [Musikverein Poppenweiler e.V.]({% post_url 2022-04-02-teilnehmer %}#mv-poppenweiler)
+- [Orgelmusik in der Stadtkirche]({% post_url 2022-04-02-teilnehmer %}#orgelmusik)
+- [Poplibets]({% post_url 2022-04-02-teilnehmer %}#poplibets)
+- [Posaunenchor des CVJM Ludwigsburg]({% post_url 2022-04-02-teilnehmer %}#cvjm)
+- [Sinfonieorchester Ludwigsburg]({% post_url 2022-04-02-teilnehmer %}#sinfonieorchester)
+- ["SchÜKOCHO" Schüler-Kolping-Chor]({% post_url 2022-04-02-teilnehmer %}#kolpingchor)
+- [Zitherclub Oßweil]({% post_url 2022-04-02-teilnehmer %}#zitherclub)
 
 </div>
 <!--more-->
@@ -71,7 +71,7 @@ Jugendchor Cantores Trinitatis
 <h1 class="shifted-anchor" id="mv-eglosheim">Musikverein Eglosheim - Großes Orchester</h1>
 {% include teilnehmer/mv-eglosheim.markdown %}
 ----------------------------------------------------------------------------------------------------
-<h1 class="shifted-anchor" id="mv-ossweil">Musikverein Ludwigsburg-Oßweil e.V.</h1>
+<h1 class="shifted-anchor" id="mv-ossweil">Musikverein Ludwigsburg-Oßweil e.V. - Stadtkapelle Ludwigsburg</h1>
 {% include teilnehmer/mv-ossweil.markdown %}
 ----------------------------------------------------------------------------------------------------
 <h1 class="shifted-anchor" id="mv-poppenweiler">Musikverein Poppenweiler e.V.</h1>
