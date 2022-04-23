@@ -24,7 +24,7 @@ Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern
 - [Musikverein Eglosheim - Großes Orchester ]({% post_url 2022-04-02-teilnehmer %}#mv-eglosheim)
 - [Musikverein Ludwigsburg-Oßweil e.V.]({% post_url 2022-04-02-teilnehmer %}#mv-ossweil)
 - [Musikverein Poppenweiler e.V.]({% post_url 2022-04-02-teilnehmer %}#mv-poppenweiler)
-- [Orgelmusik in der Stadtkirche]({% post_url 2022-04-02-teilnehmer %}#orgelmusik)
+- [Orgelmusik zum Wochenmarkt]({% post_url 2022-04-02-teilnehmer %}#orgelmusik)
 - [Poplibets]({% post_url 2022-04-02-teilnehmer %}#poplibets)
 - [Posaunenchor des CVJM Ludwigsburg]({% post_url 2022-04-02-teilnehmer %}#cvjm)
 - [Sinfonieorchester Ludwigsburg]({% post_url 2022-04-02-teilnehmer %}#sinfonieorchester)
@@ -77,7 +77,7 @@ Jugendchor Cantores Trinitatis
 <h1 class="shifted-anchor" id="mv-poppenweiler">Musikverein Poppenweiler e.V.</h1>
 {% include teilnehmer/mv-poppenweiler.markdown %}
 ----------------------------------------------------------------------------------------------------
-<h1 class="shifted-anchor" id="orgelmusik">Orgelmusik in der Stadtkirche</h1>
+<h1 class="shifted-anchor" id="orgelmusik">Orgelmusik zum Wochenmarkt</h1>
 {% include teilnehmer/orgelmusik.markdown %}
 ----------------------------------------------------------------------------------------------------
 <h1 class="shifted-anchor" id="poplibets">Poplibets</h1>
