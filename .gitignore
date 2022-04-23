@@ -5,3 +5,11 @@ _site/
 .jekyll-metadata
 .idea/
 Gemfile.lock
+/_includes/teilnehmer/_bpd-lu-di.markdown
+/_includes/teilnehmer/_eintracht-poppenweiler.markdown
+/_includes/teilnehmer/_jms.markdown
+/_includes/teilnehmer/_mve-grosses-orchester.markdown
+/_includes/teilnehmer/_mve-saxoforte.markdown
+/_includes/teilnehmer/_mvp.markdown
+/_includes/teilnehmer/_poplibets.markdown
+/_includes/teilnehmer/_zitherclub.markdown

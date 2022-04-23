@@ -20,7 +20,6 @@ Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern
 - [Jugendchor Cantores Trinitatis ](/teilnehmer.html#cantores)
 - [Jugendmusikschule Ludwigsburg e.V.](/teilnehmer.html#jms)
 - [Kantorei - Karlshöhe Ludwigsburg](/teilnehmer.html#kantorei)
-- [Kolpingchor](/teilnehmer.html#kolpingchor)
 - [Liedertafel Ludwigsburg 1838 e.V.](/teilnehmer.html#liedertafel)
 - [Musikverein Eglosheim - Großes Orchester ](/teilnehmer.html#mv-eglosheim)
 - [Musikverein Ludwigsburg-Oßweil e.V.](/teilnehmer.html#mv-ossweil)
@@ -29,6 +28,7 @@ Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern
 - [Poplibets](/teilnehmer.html#poplibets)
 - [Posaunenchor des CVJM Ludwigsburg](/teilnehmer.html#cvjm)
 - [Sinfonieorchester Ludwigsburg](/teilnehmer.html#sinfonieorchester)
+- ["SchÜKOCHO" Schüler-Kolping-Chor](/teilnehmer.html#kolpingchor)
 - [Zitherclub Oßweil](/teilnehmer.html#zitherclub)
 
 </div>
@@ -50,7 +50,10 @@ Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern
 <h1 class="shifted-anchor" id="hsl">Harmonika Spielring Ludwigsburg</h1>
 {% include teilnehmer/hsl.markdown %}
 ----------------------------------------------------------------------------------------------------
-<h1 class="shifted-anchor" id="cantores">Jugendchor Cantores Trinitatis</h1>
+<h1 class="shifted-anchor" id="cantores">
+Jugendchor Cantores Trinitatis
+<small class="text-muted">Kath. Kirche Zur Heiligsten Dreieinigkeit </small>
+</h1>
 {% include teilnehmer/cantores.markdown %}
 ----------------------------------------------------------------------------------------------------
 <h1 class="shifted-anchor" id="jms">Jugendmusikschule Ludwigsburg e.V.</h1>
@@ -59,7 +62,7 @@ Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern
 <h1 class="shifted-anchor" id="kantorei">Kantorei - Karlshöhe Ludwigsburg</h1>
 {% include teilnehmer/kantorei.markdown %}
 ----------------------------------------------------------------------------------------------------
-<h1 class="shifted-anchor" id="kolpingchor">Kolpingchor</h1>
+<h1 class="shifted-anchor" id="kolpingchor">"SchÜKOCHO" Schüler-Kolping-Chor</h1>
 {% include teilnehmer/kolpingchor.markdown %}
 ----------------------------------------------------------------------------------------------------
 <h1 class="shifted-anchor" id="liedertafel">Liedertafel Ludwigsburg 1838 e.V.</h1>

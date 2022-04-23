@@ -1,4 +1,4 @@
-- __Auftritt:__ 12:15 -- Bühne hinter der ev. Stadtkirche
+- __Auftritt:__ 12:15 Uhr -- Bühne hinter der ev. Stadtkirche
 - __Musikalische Leitung__: Selim Hauschild
 - __Homepage:__ [posaunenchorbezirk-ludwigsburg-ditzingen.de](http://posaunenchorbezirk-ludwigsburg-ditzingen.de/)
 
