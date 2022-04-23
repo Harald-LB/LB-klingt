@@ -1,3 +1,15 @@
+- __Auftritt des Blasorchesters:__ 10:30 Uhr -- Sternmarsch zur Eröffnung
+- __Musikalische Leitung:__ Martin Klaschka
+
+- __Auftritt des Saxophonensembles:__ 13:30 Uhr -- Vor dem Modehaus Oberpaur
+- __Musikalische Leitung:__ Rudolf Artinger
+
+- __Auftritt des Jugendorchesters:__ 14:00 Uhr -- Auf dem Rathaushof
+- __Musikalische Leitung:__ Stefan Schlitter
+
+- __Auftritt der N.Y. Lake Big Band:__ 17:00 Uhr -- Abschlussveranstaltung in der Reithalle
+- __Musikalische Leitung:__ Rudolf Artinger
+
 - __Homepage:__ [www.mv-p.de](https://mv-p.de/)
 
 Der Musikverein Poppenweiler, gegründet 1958, prägt ganz entscheidend das kulturelle Leben in Poppenweiler durch seine
@@ -31,6 +43,12 @@ mehrtägiges Musikfest mit vielen Attraktionen
      <figure>
        <img src="{% link assets/img/teilnehmer/mvp-Saxophonensemble.jpg %}" alt="Saxophonensemble" class="img-fluid">     
        <figcaption><i><small>Saxophonensemble</small></i></figcaption>
+    </figure> 
+   </div>
+   <div class="col-md">
+     <figure>
+       <img src="{% link assets/img/teilnehmer/mvp-jugend.jpg %}" alt="Jugendorchester" class="img-fluid">     
+       <figcaption><i><small>Jugendorchester</small></i></figcaption>
     </figure> 
    </div>
 </div>
