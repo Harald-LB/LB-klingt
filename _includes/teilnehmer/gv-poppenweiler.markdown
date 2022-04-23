@@ -23,6 +23,6 @@ Auswahl an Liedern verschiedener Genres und Sprachen
 – TRAU DICH – KOMM VORBEI!
 </div>
    <div class="col-md">
-       <img src="assets/img/teilnehmer/eintracht-poppenweiler.jpg" alt="Eintracht Poppenweiler" class="img-fluid">
+       <img src="{% link assets/img/teilnehmer/eintracht-poppenweiler.jpg %}" alt="Eintracht Poppenweiler" class="img-fluid">
 </div>
 </div>

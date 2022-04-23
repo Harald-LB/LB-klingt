@@ -12,7 +12,7 @@ Opernmusik erklingen.
 <div class="row">
    <div class="col-md-8">
      <figure>
-       <img src="assets/img/teilnehmer/bezirksposaunendienst.jpg" alt="Bezirksposaunentag Remseck 2021" class="img-fluid">     
+       <img src="{% link assets/img/teilnehmer/bezirksposaunendienst.jpg %}" alt="Bezirksposaunentag Remseck 2021" class="img-fluid">     
        <figcaption><i><small>Am Bezirksposaunentag in Remseck 2021</small></i></figcaption>
     </figure> 
    </div>
@@ -28,7 +28,7 @@ Sie gar nicht bis zum 21. Mai warten müssen, um schon mal einen Eindruck von un
    <div class="col-sm">
      <figure>
        <a href="https://www.youtube.com/watch?v=bt3KiVRvcWA">
-        <img src="assets/img/teilnehmer/bezirksposaunendienst-video1.jpg" alt="Nabucco Ouverture" class="img-fluid">
+        <img src="{% link assets/img/teilnehmer/bezirksposaunendienst-video1.jpg %}" alt="Nabucco Ouverture" class="img-fluid">
        </a>
        <figcaption>
           <a href="https://www.youtube.com/watch?v=bt3KiVRvcWA">
@@ -41,7 +41,7 @@ Sie gar nicht bis zum 21. Mai warten müssen, um schon mal einen Eindruck von un
     <div class="col-sm">
       <figure>
         <a href="https://www.youtube.com/watch?v=Kui4PWlO9QE">
-         <img src="assets/img/teilnehmer/bezirksposaunendienst-video2.jpg" alt="Virtuelle Stunde der Kirchenmusik Ludwigsburg 2020:" class="img-fluid">
+         <img src="{% link assets/img/teilnehmer/bezirksposaunendienst-video2.jpg %}" alt="Virtuelle Stunde der Kirchenmusik Ludwigsburg 2020:" class="img-fluid">
         </a>
         <figcaption>
           <a href="https://www.youtube.com/watch?v=Kui4PWlO9QE">

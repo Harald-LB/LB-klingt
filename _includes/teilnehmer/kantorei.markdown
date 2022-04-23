@@ -3,12 +3,12 @@
   Ola Gjeilo, Sunrise Mass - Sinfonische Messe für Chor und Streichorchester Kantorei Karlshöhe
 - __Orchester:__ Camerata viva Tübingen
 - __Poetry:__ Marius Loy
-- __Leitung:__ Nikolai Ott
+- __Musikalische Leitung:__ Nikolai Ott
 - __Web:__ [www.kantorei-karlshoehe.de](https://www.kantorei-karlshoehe.de/event/2022-chormusik-trifft-poetry-slam.html)
 
 <div class="row">
    <div class="col-md-4">
-       <img src="assets/img/teilnehmer/kantorei.jpg" alt="Chormusik trifft Poetry Slam" class="img-fluid">     
+       <img src="{% link assets/img/teilnehmer/kantorei.jpg %}" alt="Chormusik trifft Poetry Slam" class="img-fluid">     
    </div>
     <div class="col-md">
 Ola Gjeilo`s Auftragskomposition für eine Gemeinschaftsproduktion norwegischer Chöre ist eine Sinfonische Messe für Chor

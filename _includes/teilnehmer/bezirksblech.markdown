@@ -1,5 +1,5 @@
 - __Auftritt:__ 11:30 Uhr -- Bühne hinter der ev. Stadtkirche
-- __Leitung:__ Heike Büttel
+- __Musikalische Leitung:__ Heike Büttel
 - __Homepage:__ [posaunenchorbezirk-ludwigsburg-ditzingen.de](http://posaunenchorbezirk-ludwigsburg-ditzingen.de/)
 
 Im Posaunenchorbezirk Ludwigsburg/Ditzingen sind alle Posaunenchöre der beiden Kirchenbezirke

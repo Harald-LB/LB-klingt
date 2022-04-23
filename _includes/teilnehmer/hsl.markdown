@@ -4,7 +4,7 @@
 
 <div class="row">
    <div class="col-2">
-    <img src="assets/img/teilnehmer/hsl.jpg" alt="HSL Logo" 
+    <img src="{% link assets/img/teilnehmer/hsl.jpg %}" alt="HSL Logo" 
          class="img-fluid"
          style="border: 1rem solid white;"> 
    </div>

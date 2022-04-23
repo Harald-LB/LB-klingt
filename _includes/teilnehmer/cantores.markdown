@@ -1,10 +1,10 @@
 - __Auftritt:__ 12:45 Uhr -- in der ev. Stadtkirche
-- __Leitung:__ Susanne Obert
+- __Musikalische Leitung:__ Susanne Obert
 - __Homepage:__ [www.cantores-trinitatis-ludwigsburg.de](https://www.cantores-trinitatis-ludwigsburg.de/)
 
 <div class="row">
    <div class="col-2">
-    <img src="assets/img/teilnehmer/cantores.png" alt="cantores-trinitatis Logo" 
+    <img src="{% link assets/img/teilnehmer/cantores.png %}" alt="cantores-trinitatis Logo" 
          class="img-fluid"
          style="border: 1rem solid white;background-color: white"> 
    </div>

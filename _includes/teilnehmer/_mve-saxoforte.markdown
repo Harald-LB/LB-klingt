@@ -5,7 +5,7 @@ Wir sind "Saxoforte" - das Saxophonensemble des Musikverein Eglosheim.
 <div class="container">
  <div class="row">
   <div class="col-lg-6 pl-0">
-  ![Saxoforte](assets/img/teilnehmer/saxoforte.jpg){: .img-fluid}
+  ![Saxoforte]({% link assets/img/teilnehmer/saxoforte.jpg %}){: .img-fluid}
   </div>
   <div class="col-lg-6 pl-0 pl-lg-2">
   Vor gut 12 Jahren fing alles an. Während der Registerproben für das alljährliche Weihnachtskonzert
