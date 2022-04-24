@@ -1,4 +1,5 @@
-- __Auftritt:__ 15:00 Uhr -- Vor dem Modehaus Oberpaur
+- __Auftritt 1:__ 14:00 Uhr -- Auf dem Marktplatz beim 3. Welt Laden
+- __Auftritt 2:__ 15:00 Uhr -- Vor dem Modehaus Oberpaur
 - __Musikalische Leitung:__ Sabine Wieland
 - __Homepage:__ [www.poplibets-osseil.de](http://www.poplibets-ossweil.de/)
 
