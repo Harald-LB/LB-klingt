@@ -86,9 +86,9 @@ Jugendchor Cantores Trinitatis
 <h1 class="shifted-anchor" id="cvjm">Posaunenchor des CVJM Ludwigsburg</h1>
 {% include teilnehmer/cvjm.markdown %}
 ----------------------------------------------------------------------------------------------------
-<h1 class="shifted-anchor" id="sinfonieorchester">Sinfonieorchester Ludwigsburg</h1>
+<h1 class="shifted-anchor" id="sinfonieorchester">Sinfonieorchester Ludwigsburg e.V.</h1>
 {% include teilnehmer/sinfonieorchester.markdown %}
 ----------------------------------------------------------------------------------------------------
-<h1 class="shifted-anchor" id="zitherclub">Zitherclub Oßweil</h1>
+<h1 class="shifted-anchor" id="zitherclub">Zitherclub Oßweil e.V. gegr. 1919</h1>
 {% include teilnehmer/zitherclub.markdown %}
 ----------------------------------------------------------------------------------------------------
