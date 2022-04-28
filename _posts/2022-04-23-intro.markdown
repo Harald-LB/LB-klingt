@@ -5,7 +5,7 @@ subtitle: "die Musik ist zurück"
 teaser_position: 10
 only_teaser: false
 excerpt_separator: <!--more-->
-title_image: "assets/img/music/trumpet-3883798_1920.jpg"
+title_image: "assets/img/music/instrumente-lager.jpg"
 ---
 {::options parse_block_html="true" /}
 

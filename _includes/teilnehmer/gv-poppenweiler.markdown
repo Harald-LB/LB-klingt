@@ -1,5 +1,9 @@
-- __Auftritt:__ PoppTones u. se'woukels, 15:00 Uhr -- Rathaushof
-- __Auftritt:__ Kinderchor, 12:00 Uhr -- Kinderbibliothek
+- __Auftritt:__ PoppTones u. \[se'woukels\], 15:00 Uhr -- Rathaushof
+- __Musikalische Leitung:__  Andreas Rapp
+
+- __Auftritt:__ Kinderchor POPP-kids, 12:00 Uhr -- Kinderbibliothek
+- __Musikalische Leitung:__  Helena Fausel
+
 - __Homepage:__ [www.singen-in-poppenweiler.de](https://www.singen-in-poppenweiler.de)
 
 Singen macht Spaß, singen tut gut…
@@ -14,11 +18,10 @@ Unser Kinderchor, die [POPP-KIDS](https://www.singen-in-poppenweiler.de/Popp-Kid
 werden sie mit ihrem Auftritt in der Kinderbibliothek begeistern.
 
 <div class="row">
-<div class="col-md">
-Lust auf mehr? Dann schnell zu den Chören der Eintracht Poppenweiler. Egal, ob musikalische Früherziehung ab 18 Monaten,
-Kinder- Jugend- oder gemischter Chor – wir bieten für jeden den passenden Rahmen. Oder du denkst du bist zu alt zum
-Singen? Dann bist du in unserem SMS-Chor ab 65 Jahren genau richtig. In allen Chören erwartet dich eine breit gefächerte
-Auswahl an Liedern verschiedener Genres und Sprachen
+<div class="col-md" markdown="1">
+Lust auf mehr? Dann schnell zu den Chören der Eintracht Poppenweiler. Egal ob Kinder- Jugend- oder 
+gemischter Chor – wir bieten für jeden den passenden Rahmen. In allen Chören erwartet dich eine 
+breit gefächerte Auswahl an Liedern verschiedener Genres und Sprachen.
 
 – TRAU DICH – KOMM VORBEI!
 </div>

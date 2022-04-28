@@ -10,7 +10,9 @@ title_image: "assets/img/music/mv-p-3.jpg"
 ---
 {::options parse_block_html="true" /}
 <div class="teaser">
-Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern auch zahlreiche weitere musikalisch Aktive aus Ludwigsburg.
+Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern auch zahlreiche 
+weitere musikalisch Aktive aus Ludwigsburg. Hier stellen sich die teilnehmenden Vereine und 
+Ensembles kurz vor.
 
 - [Großes Bezirksblech Ludwigsburg/Ditzingen]({% post_url 2022-04-02-teilnehmer %}#bezirksblech)
 - [Bezirksposaunendienst Ludwigsburg/Ditzingen]({% post_url 2022-04-02-teilnehmer %}#bezirksposaunendienst)

@@ -1,4 +1,4 @@
-- __Web:__ [www.jms-lb.de](https://www.jugendmusikschule-ludwigsburg.de/)
+- __Homepage:__ [www.jms-lb.de](https://www.jugendmusikschule-ludwigsburg.de/)
 <div class="row">
    <div class="col-md-5">
     <img src="{% link assets/img/teilnehmer/jms.jpg %}" alt="Jugendmusikschule" 
