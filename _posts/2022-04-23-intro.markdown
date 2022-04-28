@@ -1,0 +1,45 @@
+---
+layout: article
+title:  "Ludwigsburg klingt!"
+subtitle: "die Musik ist zurück"
+teaser_position: 10
+only_teaser: false
+excerpt_separator: <!--more-->
+title_image: "assets/img/music/trumpet-3883798_1920.jpg"
+---
+{::options parse_block_html="true" /}
+
+### Der Stadtverband Musik e.V. bringt die Stadt an vielen Plätzen zum Klingen
+
+Über 20 Chöre, Orchester, Kapellen und Ensembles machen den 21. Mai unter dem Motto „Ludwigsburg klingt“ zu einem
+musikalischen Erlebnistag in der Stadt. „In einer Zeit mit vielen ernsten Ereignissen setzen wir ein Zeichen für
+Verbundenheit und Zuversicht“, kündigt der Stadtverband Musik an. Von internationaler Folklore über Latin, Bigband-,
+Zither- und Posaunenmusik bis zu Edvard Griegs Symphonischen Tänzen reicht das musikalische Spektrum. Viele
+Musikinteressierte werden einzelne Konzerte gezielt besuchen, und auch zufällig dazukommende Passantinnen und Passanten
+sind herzlich willkommen. So wird die Ludwigsburger Innenstadt an diesem Tag einen ganz besonderen Charme ausstrahlen.
+<!--more-->
+
+Zwischen Akademie- und Rathaushof, dem Kulturzentrum, verschiedenen Orten in der Fußgängerzone und dem Marktplatz gibt
+es an diesem Samstag von 10:30 bis 17:00 Uhr vielfältige Konzerte auf Plätzen und in geeigneten Räumen. Auf dem
+Marktplatz lädt ein Infostand ein, mit Menschen aus den verschiedenen Vereinen ins Gespräch zu kommen und sich über die
+vielfältigen Möglichkeiten zum gemeinsamen Musizieren zu informieren. Im Anschluss startet im Kunstzentrum Karlskaserne
+die große Abschlussparty mit verschiedenen Akteurinnen und Akteuren des Tages, musikalisch umrahmt von drei Big Bands
+mit ihrem typischen Sound. Der Eintritt zu allen Veranstaltungen ist kostenfrei.
+
+Den ganzen Tag über wird unterhaltsame und ansprechende Musik für die verschiedensten Interessens- und Altersgruppen
+geboten. Der Stadtverband Musik hat nicht nur seine Mitgliedsvereine mobilisiert, sondern auch zahlreiche weitere
+musikalisch Aktive aus Ludwigsburg. Es gibt Orgelmusik in der Stadtkirche und mehrere Akkordeon-Orchester mit einer
+riesigen musikalischen Bandbreite von traditionell bis modern.
+
+Verschiedene Chöre zeigen ihr großes Können mit klassischem Liedgut und ansprechendem Pop. Auch Kinderchöre sind
+vertreten und machen lebendige Werbung für das gemeinsame Singen. Aus den Reihen der Jugendmusikschule Ludwigsburg sind
+vielversprechende Ensembles angekündigt. Ein Workshop unter dem Motto „Musikalischer Spaziergang“ zeigt, welche Qualität
+und Freude sich aus der musikalischen Früherziehung entwickeln kann.
+
+Eine große Abschlussveranstaltung aller Akteure, Förderer und Freunde startet um 17:00 Uhr in der
+Reithalle/Karlskaserne.
+
+Genaue Informationen zu den Musikerinnen und Musikern sowie zu den Spielorten und -zeiten gibt es rechtzeitig in einem
+eigens herausgegebenen Programmheft sowie [hier]({% post_url 2022-04-02-teilnehmer %}). Der musikalische Erlebnistag
+wird unterstützt von der Stadt Ludwigsburg, der Bürgerstiftung Ludwigsburg (https://www.buergerstiftung-ludwigsburg.de/)
+und den Stadtwerken Ludwigsburg-Kornwestheim (https://www.swlb.de).

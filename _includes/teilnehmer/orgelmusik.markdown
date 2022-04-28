@@ -8,6 +8,6 @@
          class="img-fluid"> 
    </div>
     <div class="col">
-Martin Kaleschke, Fabian Wöhrle and friends spielen an allen Tasteninstrumenten der Stadtkirche.
+Die Orgelmusik zum Wochenmarkt spielt Julian Handlos mit Musik von Gunnar Idenstam (Toccata) u.a.
     </div>
 </div>
