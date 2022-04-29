@@ -29,13 +29,15 @@ layout: default
            href="{{ post.url | relative_url }}" role="button">Mehr...</a>
         {% endunless %}
       </div>
+      {% if post.title_image %}
       <div class="col-md-5">
-        <img src="{{post.title_image}}"
+        <img src="{% link {{post.title_image}} %}"
              alt=""
              width="500"
              height="500"
              class="featurette-image img-fluid mx-auto">
       </div>
+      {% endif %}
     </div>
     {% assign text_left = false %}
     {% else %}
@@ -52,13 +54,15 @@ layout: default
            href="{{ post.url | relative_url }}" role="button">Mehr...</a>
         {% endunless %}
       </div>
+      {% if post.title_image %}
       <div class="col-md-5 order-md-1">
-        <img src="{{post.title_image}}"
+        <img src="{% link {{post.title_image}} %}"
              alt=""
              width="500"
              height="500"
              class="featurette-image img-fluid mx-auto">
       </div>
+      {% endif %}
     </div>
     {% assign text_left = true %}
     {% endif %}

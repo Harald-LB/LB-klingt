@@ -6,7 +6,7 @@ menu_position: 21
 teaser_position: 21
 only_teaser: false
 excerpt_separator: <!--more-->
-title_image: "assets/img/music/mv-p-3.jpg"
+title_image: "assets/img/music/piano-hands.jpg"
 ---
 {::options parse_block_html="true" /}
 <div class="teaser">
