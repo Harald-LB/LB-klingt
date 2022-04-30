@@ -93,4 +93,4 @@ Jugendchor Cantores Trinitatis
 ----------------------------------------------------------------------------------------------------
 <h1 class="shifted-anchor" id="zitherclub">Zitherclub Oßweil e.V. gegr. 1919</h1>
 {% include teilnehmer/zitherclub.markdown %}
-----------------------------------------------------------------------------------------------------
+

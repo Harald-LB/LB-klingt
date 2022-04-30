@@ -15,12 +15,9 @@
   opacity: 0.5;
 }
 
-/* Padding below the footer and lighter body text */
-
-body {
-  //padding-top: 3rem;
-  padding-bottom: 3rem;
-
+footer{
+  border-top: 1px solid $SV-green;
+  background-color: $gray-800;
 }
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
