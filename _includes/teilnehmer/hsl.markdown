@@ -3,12 +3,12 @@
 - __Homepage:__ [www.hsl-lb.de](https://www.hsl-lb.de/)
 
 <div class="row">
-   <div class="col-2">
-    <img src="{% link assets/img/teilnehmer/hsl.jpg %}" alt="HSL Logo" 
+   <div class="col-xs-4 col-sm-3 col-md-2">
+    <img src="{% link assets/img/teilnehmer/hsl.png %}" alt="HSL Logo" 
          class="img-fluid"
-         style="border: 1rem solid white;"> 
+         style="border: 1rem solid white;background-color: white"> 
    </div>
-    <div class="col">
+    <div class="col-md-10">
        Das Akkordeon-Ensemble des HSL spielt Original-Literatur für Akkordeon auf Kunststufen-Niveau. Das kann klassische
        Kammermusik sein, aber auch ein lieblicher Musette-Walzer oder ein tragischer Tango.
     </div>
