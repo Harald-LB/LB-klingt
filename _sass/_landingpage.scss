@@ -45,15 +45,15 @@ footer{
   left: 0;
 }
 
-
-.teaser {
-  font-style: italic;
-  border-bottom-style: solid;
-  border-bottom-color: $SV-green;// $gray-600;
-  border-bottom-width: thin;
-  margin-bottom:1rem;
+#article {
+  .teaser {
+    font-style: italic;
+    border-bottom-style: solid;
+    border-bottom-color: $gray-700;
+    border-bottom-width: thin;
+    margin-bottom: 1rem;
+  }
 }
-
 .marketing {
   .teaser {
     font-style: normal;
@@ -64,7 +64,7 @@ footer{
 
 h2 {
   small {
-    font-size: 75%;
+    font-size: 64%;
   }
 }
 
