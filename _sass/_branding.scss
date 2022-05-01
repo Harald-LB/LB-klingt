@@ -10,6 +10,7 @@ $SV-complement-dark: desaturate(darken($SV-complement, 35%),60%);
 
 $body-bg: #4d4d57;// #ffffff;
 $body-color: white;//#5a5a5a;
+$text-muted:                  $gray-400 ;
 
 $theme-colors: (
         "primary": $SV-green,

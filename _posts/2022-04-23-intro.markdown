@@ -10,13 +10,14 @@ title_image: "assets/img/music/instrumente-lager.jpg"
 {::options parse_block_html="true" /}
 
 ### Der Stadtverband Musik e.V. bringt die Stadt an vielen Plätzen zum Klingen
-
+<div class="teaser" markdown="1">
 Über 20 Chöre, Orchester, Kapellen und Ensembles machen den 21. Mai unter dem Motto „Ludwigsburg klingt“ zu einem
 musikalischen Erlebnistag in der Stadt. „In einer Zeit mit vielen ernsten Ereignissen setzen wir ein Zeichen für
 Verbundenheit und Zuversicht“, kündigt der Stadtverband Musik an. Von internationaler Folklore über Latin, Bigband-,
 Zither- und Posaunenmusik bis zu Edvard Griegs Symphonischen Tänzen reicht das musikalische Spektrum. Viele
 Musikinteressierte werden einzelne Konzerte gezielt besuchen, und auch zufällig dazukommende Passantinnen und Passanten
 sind herzlich willkommen. So wird die Ludwigsburger Innenstadt an diesem Tag einen ganz besonderen Charme ausstrahlen.
+</div>
 <!--more-->
 
 Zwischen Akademie- und Rathaushof, dem Kulturzentrum, verschiedenen Orten in der Fußgängerzone und dem Marktplatz gibt
