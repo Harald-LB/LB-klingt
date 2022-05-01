@@ -22,13 +22,11 @@ layout: default
   <!-- Tab panes -->
   <div class="tab-content">
     <div class="tab-pane active container py-sm-5" id="impressum" role="tabpanel" aria-labelledby="impressum-tab">
-      {% capture contact %}{% include contact.html %}{% endcapture %}
-      {{ contact | markdownify }}
+      {% include contact.html %}
     </div>
 
     <div class="tab-pane container py-sm-5" id="privacy" role="tabpanel" aria-labelledby="privacy-tab">
-      {% capture privacy %}{% include privacy.html %}{% endcapture %}
-      {{ privacy | markdownify }}
+      {% include privacy.html %}
     </div>
   </div>
 
