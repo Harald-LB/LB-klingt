@@ -18,6 +18,7 @@ $theme-colors: (
 
 
 $link-color:                              $SV-green;
+$nav-link-hover-color:                    $SV-green;
 $link-decoration:                         none;
 $link-hover-color:                        lighten($link-color, 30%);
 $link-hover-decoration:                   underline ;
